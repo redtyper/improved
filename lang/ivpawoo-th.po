@@ -1,0 +1,508 @@
+# Copyright (C) 2018 Improved Variable Product Attributes for WooCommerce
+# This file is distributed under the same license as the Improved Variable Product Attributes for WooCommerce package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Improved Variable Product Attributes for WooCommerce "
+"4.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/improved-variable-"
+"product-attributes\n"
+"POT-Creation-Date: 2018-08-12 12:51:42+00:00\n"
+"PO-Revision-Date: 2018-02-26 15:26+0100\n"
+"Last-Translator: dzeriho@gmail.com <support@mihajlovicnenad.com>\n"
+"Language-Team: Thai\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: improved-variable-product-attributes.php:187
+msgid "Improved Options"
+msgstr ""
+
+#: includes/ivpa-frontend.php:429 includes/ivpa-frontend.php:1106
+msgid "Select"
+msgstr ""
+
+#: includes/ivpa-frontend.php:430
+msgid "Add to cart"
+msgstr ""
+
+#: includes/ivpa-frontend.php:431
+msgid "Select options"
+msgstr ""
+
+#: includes/ivpa-frontend.php:437
+msgid "View Cart"
+msgstr ""
+
+#: includes/ivpa-frontend.php:1344
+msgid "Click to confirm input"
+msgstr ""
+
+#: includes/ivpa-frontend.php:1344
+msgid "Input confirmed"
+msgstr ""
+
+#: includes/ivpa-frontend.php:1374
+msgid "Click to confirm selection"
+msgstr ""
+
+#: includes/ivpa-frontend.php:1374
+msgid "Selection confirmed"
+msgstr ""
+
+#: includes/ivpa-frontend.php:1412
+msgid "Clear selection"
+msgstr ""
+
+#: includes/ivpa-frontend.php:1419
+msgid "Qty:"
+msgstr ""
+
+#: includes/ivpa-settings.php:33
+msgid "Improved Product Options for WooCommerce"
+msgstr ""
+
+#: includes/ivpa-settings.php:34
+msgid "Settings page for Improved Product Options for WooCommerce!"
+msgstr ""
+
+#: includes/ivpa-settings.php:37
+msgid "More plugins and themes?"
+msgstr ""
+
+#: includes/ivpa-settings.php:41
+msgid "Documentation and Plugin Guide"
+msgstr ""
+
+#: includes/ivpa-settings.php:46 includes/ivpa-settings.php:47
+msgid "Product Options"
+msgstr ""
+
+#: includes/ivpa-settings.php:50
+msgid "General"
+msgstr ""
+
+#: includes/ivpa-settings.php:51
+msgid "General Options"
+msgstr ""
+
+#: includes/ivpa-settings.php:54
+msgid "Product Page"
+msgstr ""
+
+#: includes/ivpa-settings.php:55
+msgid "Product Page Options"
+msgstr ""
+
+#: includes/ivpa-settings.php:58
+msgid "Shop/Archives"
+msgstr ""
+
+#: includes/ivpa-settings.php:59
+msgid "Shop/Archives Options"
+msgstr ""
+
+#: includes/ivpa-settings.php:62
+msgid "Installation"
+msgstr ""
+
+#: includes/ivpa-settings.php:63
+msgid "Installation Options"
+msgstr ""
+
+#: includes/ivpa-settings.php:72
+msgid "Options Manager"
+msgstr ""
+
+#: includes/ivpa-settings.php:74
+msgid ""
+"Use the manager to customize your attributes or add custom product options!"
+msgstr ""
+
+#: includes/ivpa-settings.php:84
+msgid "Attribute Swatch"
+msgstr ""
+
+#: includes/ivpa-settings.php:85
+msgid "Custom Option"
+msgstr ""
+
+#: includes/ivpa-settings.php:90
+msgid "Select Attribute"
+msgstr ""
+
+#: includes/ivpa-settings.php:92
+msgid "Select attribute to customize"
+msgstr ""
+
+#: includes/ivpa-settings.php:99 includes/ivpa-settings.php:136
+msgid "Name"
+msgstr ""
+
+#: includes/ivpa-settings.php:101 includes/ivpa-settings.php:138
+msgid "Use alternative name for the attribute"
+msgstr ""
+
+#: includes/ivpa-settings.php:106 includes/ivpa-settings.php:143
+msgid "Description"
+msgstr ""
+
+#: includes/ivpa-settings.php:108 includes/ivpa-settings.php:145
+msgid "Enter description for current attribute"
+msgstr ""
+
+#: includes/ivpa-settings.php:113
+msgid "Attribute is Selectable (Simple Products)"
+msgstr ""
+
+#: includes/ivpa-settings.php:115
+msgid ""
+"This option is in use only with Simple Products and General>Attribute "
+"Selection Support set to All Products"
+msgstr ""
+
+#: includes/ivpa-settings.php:120 includes/ivpa-settings.php:185
+#: includes/ivpa-settings.php:262
+msgid "Shop Display Mode"
+msgstr ""
+
+#: includes/ivpa-settings.php:122 includes/ivpa-settings.php:187
+msgid ""
+"Show on Shop Pages (Works with Shop Display Mode set to Show Available "
+"Options Only)"
+msgstr ""
+
+#: includes/ivpa-settings.php:127 includes/ivpa-settings.php:192
+msgid "Required"
+msgstr ""
+
+#: includes/ivpa-settings.php:129
+msgid ""
+"This option is required (Only works on simple products, variable product "
+"attributes are required always)"
+msgstr ""
+
+#: includes/ivpa-settings.php:150
+msgid "Add Price"
+msgstr ""
+
+#: includes/ivpa-settings.php:152
+msgid "Add-on price if option is used by customer"
+msgstr ""
+
+#: includes/ivpa-settings.php:157
+msgid "Limit to Product Type"
+msgstr ""
+
+#: includes/ivpa-settings.php:159
+msgid "Enter product types separated by | Sample: &rarr; "
+msgstr ""
+
+#: includes/ivpa-settings.php:164
+msgid "Limit to Product Category"
+msgstr ""
+
+#: includes/ivpa-settings.php:166
+msgid "Enter product category IDs separated by | Sample: &rarr; "
+msgstr ""
+
+#: includes/ivpa-settings.php:171
+msgid "Limit to Products"
+msgstr ""
+
+#: includes/ivpa-settings.php:173
+msgid "Enter product IDs separated by | Sample: &rarr; "
+msgstr ""
+
+#: includes/ivpa-settings.php:178
+msgid "Multiselect"
+msgstr ""
+
+#: includes/ivpa-settings.php:180
+msgid "Use multi select on this option"
+msgstr ""
+
+#: includes/ivpa-settings.php:194
+msgid "This option is required"
+msgstr ""
+
+#: includes/ivpa-settings.php:203
+msgid "Hide WooCommerce Select Boxes"
+msgstr ""
+
+#: includes/ivpa-settings.php:205
+msgid ""
+"Check this option to hide default WooCommerce select boxes in Product Pages."
+msgstr ""
+
+#: includes/ivpa-settings.php:212
+msgid "Hide Add To Cart Before Selection"
+msgstr ""
+
+#: includes/ivpa-settings.php:214
+msgid ""
+"Check this option to hide the Add To Cart button in Product Pages before the "
+"selection is made."
+msgstr ""
+
+#: includes/ivpa-settings.php:221
+msgid "Select Descriptions Position"
+msgstr ""
+
+#: includes/ivpa-settings.php:223
+msgid "Select where to show descriptions."
+msgstr ""
+
+#: includes/ivpa-settings.php:226
+msgid "After Title"
+msgstr ""
+
+#: includes/ivpa-settings.php:227
+msgid "After Attributes"
+msgstr ""
+
+#: includes/ivpa-settings.php:234
+msgid "AJAX Add To Cart"
+msgstr ""
+
+#: includes/ivpa-settings.php:236
+msgid "Check this option to enable AJAX add to cart in Product Pages."
+msgstr ""
+
+#: includes/ivpa-settings.php:243
+msgid "Use Advanced Image Switcher"
+msgstr ""
+
+#: includes/ivpa-settings.php:245
+msgid ""
+"Check this option to enable advanced image switcher in Single Product Pages. "
+"This option enables image switch when a single attribute is selected."
+msgstr ""
+
+#: includes/ivpa-settings.php:253
+msgid "Show Quantities"
+msgstr ""
+
+#: includes/ivpa-settings.php:255
+msgid "Check this option to enable product quantity in Shop."
+msgstr ""
+
+#: includes/ivpa-settings.php:264
+msgid "Select how to show the options in Shop Pages."
+msgstr ""
+
+#: includes/ivpa-settings.php:267
+msgid "Only Show Available Options"
+msgstr ""
+
+#: includes/ivpa-settings.php:268
+msgid "Enable Selection and Add to Cart"
+msgstr ""
+
+#: includes/ivpa-settings.php:275
+msgid "Options Alignment"
+msgstr ""
+
+#: includes/ivpa-settings.php:277
+msgid "Select options alignment in Shop Pages."
+msgstr ""
+
+#: includes/ivpa-settings.php:280
+msgid "Left"
+msgstr ""
+
+#: includes/ivpa-settings.php:281
+msgid "Right"
+msgstr ""
+
+#: includes/ivpa-settings.php:282
+msgid "Center"
+msgstr ""
+
+#: includes/ivpa-settings.php:290
+msgid "Single Product Init Action"
+msgstr ""
+
+#: includes/ivpa-settings.php:292
+msgid ""
+"Use custom initialization action for Single Product Pages. Use actions "
+"initiated in your content-single-product.php template. Please enter action "
+"name in following format action_name:priority"
+msgstr ""
+
+#: includes/ivpa-settings.php:299
+msgid "Shop Init Action"
+msgstr ""
+
+#: includes/ivpa-settings.php:301
+msgid ""
+"Use custom initialization action for Shop/Product Archive Pages. Use actions "
+"initiated in your content-single-product.php template. Please enter action "
+"name in following format action_name:priority"
+msgstr ""
+
+#: includes/ivpa-settings.php:309
+msgid "Single Product Image jQuery Selector"
+msgstr ""
+
+#: includes/ivpa-settings.php:311
+msgid "Change default image wrapper selector in Single Product pages."
+msgstr ""
+
+#: includes/ivpa-settings.php:318
+msgid "Shop Product jQuery Selector"
+msgstr ""
+
+#: includes/ivpa-settings.php:320
+msgid "Change default product selector in Shop."
+msgstr ""
+
+#: includes/ivpa-settings.php:327
+msgid "Shop Add To Cart jQuery Selector"
+msgstr ""
+
+#: includes/ivpa-settings.php:329
+msgid "Change default add to cart selector in Shop."
+msgstr ""
+
+#: includes/ivpa-settings.php:336
+msgid "Shop Price jQuery Selector"
+msgstr ""
+
+#: includes/ivpa-settings.php:338
+msgid "Change default price selector in Shop."
+msgstr ""
+
+#: includes/ivpa-settings.php:347
+msgid "Use Plugin In Product Pages"
+msgstr ""
+
+#: includes/ivpa-settings.php:349
+msgid "Check this option to use the plugin selectors in Single Product Pages."
+msgstr ""
+
+#: includes/ivpa-settings.php:356
+msgid "Use Plugin In Shop"
+msgstr ""
+
+#: includes/ivpa-settings.php:358
+msgid "Check this option to use the plugin styled selectors in Shop Pages."
+msgstr ""
+
+#: includes/ivpa-settings.php:366
+msgid "Attribute Selection Support"
+msgstr ""
+
+#: includes/ivpa-settings.php:368
+msgid ""
+"Set this option to enable selection of attributes for products that are not "
+"variable."
+msgstr ""
+
+#: includes/ivpa-settings.php:371
+msgid "Variable Products"
+msgstr ""
+
+#: includes/ivpa-settings.php:372
+msgid "All Products (Simple Products)"
+msgstr ""
+
+#: includes/ivpa-settings.php:380
+msgid "Out Of Stock Display"
+msgstr ""
+
+#: includes/ivpa-settings.php:382
+msgid "Select how the to display the Out of Stock options."
+msgstr ""
+
+#: includes/ivpa-settings.php:385
+msgid "Shown but not clickable"
+msgstr ""
+
+#: includes/ivpa-settings.php:386
+msgid "Shown and clickable"
+msgstr ""
+
+#: includes/ivpa-settings.php:387
+msgid "Hidden from pages"
+msgstr ""
+
+#: includes/ivpa-settings.php:395
+msgid "Image Switching Attributes"
+msgstr ""
+
+#: includes/ivpa-settings.php:397
+msgid ""
+"Select attributes that will switch the product image. Available in Shop "
+"Pages and in Single Product Pages if Advanced Image Switcher option is used."
+msgstr ""
+
+#: includes/ivpa-settings.php:406
+msgid "Step Selection"
+msgstr ""
+
+#: includes/ivpa-settings.php:408
+msgid "Check this option to use stepped selection."
+msgstr ""
+
+#: includes/ivpa-settings.php:415
+msgid "Disable Option Deselection"
+msgstr ""
+
+#: includes/ivpa-settings.php:417
+msgid "Check this option not to allow option deselection/unchecking."
+msgstr ""
+
+#: includes/ivpa-settings.php:424
+msgid "Backorder Notifications"
+msgstr ""
+
+#: includes/ivpa-settings.php:426
+msgid ""
+"Check this option to enable backorders support and show notifications about "
+"them."
+msgstr ""
+
+#: includes/ivpa-settings.php:433
+msgid "Plugin Scripts"
+msgstr ""
+
+#: includes/ivpa-settings.php:435
+msgid ""
+"Check this option to load plugin scripts in all pages. This option fixes "
+"issues in Quick Views."
+msgstr ""
+
+#: includes/ivpa-settings.php:442
+msgid "Use Caching"
+msgstr ""
+
+#: includes/ivpa-settings.php:444
+msgid "Check this option to use product caching for better performance."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Improved Variable Product Attributes for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.mihajlovicnenad.com/improved-variable-product-attributes"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Improved Variable Product Attributes for WooCommerce! - mihajlovicnenad.com"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Mihajlovic Nenad"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.mihajlovicnenad.com"
+msgstr ""
