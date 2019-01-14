@@ -1,0 +1,621 @@
+[ {
+  "date" : "2009/Q4",
+  "keyValues" : {
+    "Cena / Wartość księgowa" : "2",
+    "Zysk na akcję" : null,
+    "Cena / Przychody ze sprzedaży" : null,
+    "Cena / Zysk operacyjny" : null,
+    "Wartość księgowa Grahama na akcję" : null,
+    "Cena / Zysk" : null,
+    "Kurs" : null,
+    "EV / Przychody ze sprzedaży" : null,
+    "Liczba akcji" : null,
+    "Wartość księgowa na akcję" : null,
+    "Zysk operacyjny na akcję" : null,
+    "Enterprise Value na akcję" : null,
+    "Przychody ze sprzedaży na akcję" : null,
+    "EV / EBITDA" : null,
+    "EV / EBIT" : null,
+    "Cena / Wartość księgowa Grahama" : "2"
+  }
+}, {
+  "date" : "2010/Q4",
+  "keyValues" : {
+    "Cena / Wartość księgowa" : "380.69",
+    "Zysk na akcję" : null,
+    "Cena / Przychody ze sprzedaży" : "1",
+    "Cena / Zysk operacyjny" : null,
+    "Wartość księgowa Grahama na akcję" : null,
+    "Cena / Zysk" : null,
+    "Kurs" : null,
+    "EV / Przychody ze sprzedaży" : "1",
+    "Liczba akcji" : null,
+    "Wartość księgowa na akcję" : null,
+    "Zysk operacyjny na akcję" : null,
+    "Enterprise Value na akcję" : null,
+    "Przychody ze sprzedaży na akcję" : null,
+    "EV / EBITDA" : "-2",
+    "EV / EBIT" : "-1",
+    "Cena / Wartość księgowa Grahama" : "391.50"
+  }
+}, {
+  "date" : "2011/Q3",
+  "keyValues" : {
+    "Cena / Wartość księgowa" : "239.43",
+    "Zysk na akcję" : null,
+    "Cena / Przychody ze sprzedaży" : "221.17",
+    "Cena / Zysk operacyjny" : "668.32",
+    "Wartość księgowa Grahama na akcję" : null,
+    "Cena / Zysk" : "779.18",
+    "Kurs" : null,
+    "EV / Przychody ze sprzedaży" : "220.84",
+    "Liczba akcji" : null,
+    "Wartość księgowa na akcję" : null,
+    "Zysk operacyjny na akcję" : null,
+    "Enterprise Value na akcję" : null,
+    "Przychody ze sprzedaży na akcję" : null,
+    "EV / EBITDA" : "639.58",
+    "EV / EBIT" : "667.32",
+    "Cena / Wartość księgowa Grahama" : "249.73"
+  }
+}, {
+  "date" : "2011/Q4",
+  "keyValues" : {
+    "Cena / Wartość księgowa" : "192.59",
+    "Zysk na akcję" : null,
+    "Cena / Przychody ze sprzedaży" : "161.45",
+    "Cena / Zysk operacyjny" : "338.05",
+    "Wartość księgowa Grahama na akcję" : null,
+    "Cena / Zysk" : "381.45",
+    "Kurs" : null,
+    "EV / Przychody ze sprzedaży" : "161.02",
+    "Liczba akcji" : null,
+    "Wartość księgowa na akcję" : null,
+    "Zysk operacyjny na akcję" : null,
+    "Enterprise Value na akcję" : null,
+    "Przychody ze sprzedaży na akcję" : null,
+    "EV / EBITDA" : "324.49",
+    "EV / EBIT" : "337.16",
+    "Cena / Wartość księgowa Grahama" : "190.21"
+  }
+}, {
+  "date" : "2012/Q1",
+  "keyValues" : {
+    "Cena / Wartość księgowa" : "151.34",
+    "Zysk na akcję" : null,
+    "Cena / Przychody ze sprzedaży" : "127.12",
+    "Cena / Zysk operacyjny" : "252.41",
+    "Wartość księgowa Grahama na akcję" : null,
+    "Cena / Zysk" : "284.77",
+    "Kurs" : null,
+    "EV / Przychody ze sprzedaży" : "126.73",
+    "Liczba akcji" : null,
+    "Wartość księgowa na akcję" : null,
+    "Zysk operacyjny na akcję" : null,
+    "Enterprise Value na akcję" : null,
+    "Przychody ze sprzedaży na akcję" : null,
+    "EV / EBITDA" : "241.38",
+    "EV / EBIT" : "251.64",
+    "Cena / Wartość księgowa Grahama" : "147.41"
+  }
+}, {
+  "date" : "2012/Q2",
+  "keyValues" : {
+    "Cena / Wartość księgowa" : "153.32",
+    "Zysk na akcję" : null,
+    "Cena / Przychody ze sprzedaży" : "141.36",
+    "Cena / Zysk operacyjny" : "329.03",
+    "Wartość księgowa Grahama na akcję" : null,
+    "Cena / Zysk" : "375.07",
+    "Kurs" : null,
+    "EV / Przychody ze sprzedaży" : "140.90",
+    "Liczba akcji" : null,
+    "Wartość księgowa na akcję" : null,
+    "Zysk operacyjny na akcję" : null,
+    "Enterprise Value na akcję" : null,
+    "Przychody ze sprzedaży na akcję" : null,
+    "EV / EBITDA" : "304.97",
+    "EV / EBIT" : "327.96",
+    "Cena / Wartość księgowa Grahama" : "149.23"
+  }
+}, {
+  "date" : "2012/Q3",
+  "keyValues" : {
+    "Cena / Wartość księgowa" : "80.37",
+    "Zysk na akcję" : null,
+    "Cena / Przychody ze sprzedaży" : "135.91",
+    "Cena / Zysk operacyjny" : "413.43",
+    "Wartość księgowa Grahama na akcję" : null,
+    "Cena / Zysk" : "467.06",
+    "Kurs" : null,
+    "EV / Przychody ze sprzedaży" : "134.83",
+    "Liczba akcji" : null,
+    "Wartość księgowa na akcję" : null,
+    "Zysk operacyjny na akcję" : null,
+    "Enterprise Value na akcję" : null,
+    "Przychody ze sprzedaży na akcję" : null,
+    "EV / EBITDA" : "370.12",
+    "EV / EBIT" : "410.14",
+    "Cena / Wartość księgowa Grahama" : "79.02"
+  }
+}, {
+  "date" : "2012/Q4",
+  "keyValues" : {
+    "Cena / Wartość księgowa" : "82.74",
+    "Zysk na akcję" : null,
+    "Cena / Przychody ze sprzedaży" : "119.30",
+    "Cena / Zysk operacyjny" : "318.68",
+    "Wartość księgowa Grahama na akcję" : null,
+    "Cena / Zysk" : "425.31",
+    "Kurs" : null,
+    "EV / Przychody ze sprzedaży" : "118.58",
+    "Liczba akcji" : null,
+    "Wartość księgowa na akcję" : null,
+    "Zysk operacyjny na akcję" : null,
+    "Enterprise Value na akcję" : null,
+    "Przychody ze sprzedaży na akcję" : null,
+    "EV / EBITDA" : "297.21",
+    "EV / EBIT" : "316.75",
+    "Cena / Wartość księgowa Grahama" : "81.68"
+  }
+}, {
+  "date" : "2013/Q1",
+  "keyValues" : {
+    "Cena / Wartość księgowa" : "82.06",
+    "Zysk na akcję" : null,
+    "Cena / Przychody ze sprzedaży" : "118.43",
+    "Cena / Zysk operacyjny" : "405.99",
+    "Wartość księgowa Grahama na akcję" : null,
+    "Cena / Zysk" : "564.70",
+    "Kurs" : null,
+    "EV / Przychody ze sprzedaży" : "117.60",
+    "Liczba akcji" : null,
+    "Wartość księgowa na akcję" : null,
+    "Zysk operacyjny na akcję" : null,
+    "Enterprise Value na akcję" : null,
+    "Przychody ze sprzedaży na akcję" : null,
+    "EV / EBITDA" : "373.20",
+    "EV / EBIT" : "403.13",
+    "Cena / Wartość księgowa Grahama" : "80.94"
+  }
+}, {
+  "date" : "2013/Q2",
+  "keyValues" : {
+    "Cena / Wartość księgowa" : "78.23",
+    "Zysk na akcję" : null,
+    "Cena / Przychody ze sprzedaży" : "99.11",
+    "Cena / Zysk operacyjny" : "313.62",
+    "Wartość księgowa Grahama na akcję" : null,
+    "Cena / Zysk" : "410.06",
+    "Kurs" : null,
+    "EV / Przychody ze sprzedaży" : "98.44",
+    "Liczba akcji" : null,
+    "Wartość księgowa na akcję" : null,
+    "Zysk operacyjny na akcję" : null,
+    "Enterprise Value na akcję" : null,
+    "Przychody ze sprzedaży na akcję" : null,
+    "EV / EBITDA" : "293.35",
+    "EV / EBIT" : "311.52",
+    "Cena / Wartość księgowa Grahama" : "82.51"
+  }
+}, {
+  "date" : "2013/Q3",
+  "keyValues" : {
+    "Cena / Wartość księgowa" : "81.63",
+    "Zysk na akcję" : null,
+    "Cena / Przychody ze sprzedaży" : "105.66",
+    "Cena / Zysk operacyjny" : "482.73",
+    "Wartość księgowa Grahama na akcję" : null,
+    "Cena / Zysk" : "647.10",
+    "Kurs" : null,
+    "EV / Przychody ze sprzedaży" : "104.99",
+    "Liczba akcji" : null,
+    "Wartość księgowa na akcję" : null,
+    "Zysk operacyjny na akcję" : null,
+    "Enterprise Value na akcję" : null,
+    "Przychody ze sprzedaży na akcję" : null,
+    "EV / EBITDA" : "427.70",
+    "EV / EBIT" : "479.67",
+    "Cena / Wartość księgowa Grahama" : "86.05"
+  }
+}, {
+  "date" : "2013/Q4",
+  "keyValues" : {
+    "Cena / Wartość księgowa" : "72.21",
+    "Zysk na akcję" : null,
+    "Cena / Przychody ze sprzedaży" : "100.20",
+    "Cena / Zysk operacyjny" : "410.36",
+    "Wartość księgowa Grahama na akcję" : null,
+    "Cena / Zysk" : "567.50",
+    "Kurs" : null,
+    "EV / Przychody ze sprzedaży" : "99.54",
+    "Liczba akcji" : null,
+    "Wartość księgowa na akcję" : null,
+    "Zysk operacyjny na akcję" : null,
+    "Enterprise Value na akcję" : null,
+    "Przychody ze sprzedaży na akcję" : null,
+    "EV / EBITDA" : "357.42",
+    "EV / EBIT" : "407.67",
+    "Cena / Wartość księgowa Grahama" : "72.97"
+  }
+}, {
+  "date" : "2014/Q1",
+  "keyValues" : {
+    "Cena / Wartość księgowa" : "77.39",
+    "Zysk na akcję" : null,
+    "Cena / Przychody ze sprzedaży" : "107.42",
+    "Cena / Zysk operacyjny" : "717.74",
+    "Wartość księgowa Grahama na akcję" : null,
+    "Cena / Zysk" : "1",
+    "Kurs" : null,
+    "EV / Przychody ze sprzedaży" : "106.80",
+    "Liczba akcji" : null,
+    "Wartość księgowa na akcję" : null,
+    "Zysk operacyjny na akcję" : null,
+    "Enterprise Value na akcję" : null,
+    "Przychody ze sprzedaży na akcję" : null,
+    "EV / EBITDA" : "541.62",
+    "EV / EBIT" : "713.55",
+    "Cena / Wartość księgowa Grahama" : "78.56"
+  }
+}, {
+  "date" : "2014/Q2",
+  "keyValues" : {
+    "Cena / Wartość księgowa" : "82.56",
+    "Zysk na akcję" : null,
+    "Cena / Przychody ze sprzedaży" : "105.70",
+    "Cena / Zysk operacyjny" : null,
+    "Wartość księgowa Grahama na akcję" : null,
+    "Cena / Zysk" : null,
+    "Kurs" : null,
+    "EV / Przychody ze sprzedaży" : "105.32",
+    "Liczba akcji" : null,
+    "Wartość księgowa na akcję" : null,
+    "Zysk operacyjny na akcję" : null,
+    "Enterprise Value na akcję" : null,
+    "Przychody ze sprzedaży na akcję" : null,
+    "EV / EBITDA" : "-2",
+    "EV / EBIT" : "-919.33",
+    "Cena / Wartość księgowa Grahama" : "86.96"
+  }
+}, {
+  "date" : "2014/Q3",
+  "keyValues" : {
+    "Cena / Wartość księgowa" : "84.87",
+    "Zysk na akcję" : null,
+    "Cena / Przychody ze sprzedaży" : "103.67",
+    "Cena / Zysk operacyjny" : "5",
+    "Wartość księgowa Grahama na akcję" : null,
+    "Cena / Zysk" : null,
+    "Kurs" : null,
+    "EV / Przychody ze sprzedaży" : "103.48",
+    "Liczba akcji" : null,
+    "Wartość księgowa na akcję" : null,
+    "Zysk operacyjny na akcję" : null,
+    "Enterprise Value na akcję" : null,
+    "Przychody ze sprzedaży na akcję" : null,
+    "EV / EBITDA" : "1",
+    "EV / EBIT" : "5",
+    "Cena / Wartość księgowa Grahama" : "88.84"
+  }
+}, {
+  "date" : "2014/Q4",
+  "keyValues" : {
+    "Cena / Wartość księgowa" : "33.64",
+    "Zysk na akcję" : null,
+    "Cena / Przychody ze sprzedaży" : "32.36",
+    "Cena / Zysk operacyjny" : "50.87",
+    "Wartość księgowa Grahama na akcję" : null,
+    "Cena / Zysk" : "61.94",
+    "Kurs" : null,
+    "EV / Przychody ze sprzedaży" : "31.92",
+    "Liczba akcji" : null,
+    "Wartość księgowa na akcję" : null,
+    "Zysk operacyjny na akcję" : null,
+    "Enterprise Value na akcję" : null,
+    "Przychody ze sprzedaży na akcję" : null,
+    "EV / EBITDA" : "48.94",
+    "EV / EBIT" : "50.19",
+    "Cena / Wartość księgowa Grahama" : "32.42"
+  }
+}, {
+  "date" : "2015/Q1",
+  "keyValues" : {
+    "Cena / Wartość księgowa" : "26.59",
+    "Zysk na akcję" : null,
+    "Cena / Przychody ze sprzedaży" : "24.26",
+    "Cena / Zysk operacyjny" : "34.43",
+    "Wartość księgowa Grahama na akcję" : null,
+    "Cena / Zysk" : "40.92",
+    "Kurs" : null,
+    "EV / Przychody ze sprzedaży" : "23.64",
+    "Liczba akcji" : null,
+    "Wartość księgowa na akcję" : null,
+    "Zysk operacyjny na akcję" : null,
+    "Enterprise Value na akcję" : null,
+    "Przychody ze sprzedaży na akcję" : null,
+    "EV / EBITDA" : "32.97",
+    "EV / EBIT" : "33.55",
+    "Cena / Wartość księgowa Grahama" : "28.86"
+  }
+}, {
+  "date" : "2015/Q2",
+  "keyValues" : {
+    "Cena / Wartość księgowa" : "21.47",
+    "Zysk na akcję" : null,
+    "Cena / Przychody ze sprzedaży" : "20.05",
+    "Cena / Zysk operacyjny" : "26.04",
+    "Wartość księgowa Grahama na akcję" : null,
+    "Cena / Zysk" : "31.12",
+    "Kurs" : null,
+    "EV / Przychody ze sprzedaży" : "19.48",
+    "Liczba akcji" : null,
+    "Wartość księgowa na akcję" : null,
+    "Zysk operacyjny na akcję" : null,
+    "Enterprise Value na akcję" : null,
+    "Przychody ze sprzedaży na akcję" : null,
+    "EV / EBITDA" : "24.87",
+    "EV / EBIT" : "25.30",
+    "Cena / Wartość księgowa Grahama" : "22.31"
+  }
+}, {
+  "date" : "2015/Q3",
+  "keyValues" : {
+    "Cena / Wartość księgowa" : "21.53",
+    "Zysk na akcję" : null,
+    "Cena / Przychody ze sprzedaży" : "18.71",
+    "Cena / Zysk operacyjny" : "24.27",
+    "Wartość księgowa Grahama na akcję" : null,
+    "Cena / Zysk" : "28.64",
+    "Kurs" : null,
+    "EV / Przychody ze sprzedaży" : "18.08",
+    "Liczba akcji" : null,
+    "Wartość księgowa na akcję" : null,
+    "Zysk operacyjny na akcję" : null,
+    "Enterprise Value na akcję" : null,
+    "Przychody ze sprzedaży na akcję" : null,
+    "EV / EBITDA" : "21.55",
+    "EV / EBIT" : "23.46",
+    "Cena / Wartość księgowa Grahama" : "28.91"
+  }
+}, {
+  "date" : "2015/Q4",
+  "keyValues" : {
+    "Cena / Wartość księgowa" : "19.95",
+    "Zysk na akcję" : null,
+    "Cena / Przychody ze sprzedaży" : "24.69",
+    "Cena / Zysk operacyjny" : "41.57",
+    "Wartość księgowa Grahama na akcję" : null,
+    "Cena / Zysk" : "49.46",
+    "Kurs" : null,
+    "EV / Przychody ze sprzedaży" : "23.70",
+    "Liczba akcji" : null,
+    "Wartość księgowa na akcję" : null,
+    "Zysk operacyjny na akcję" : null,
+    "Enterprise Value na akcję" : null,
+    "Przychody ze sprzedaży na akcję" : null,
+    "EV / EBITDA" : "33.83",
+    "EV / EBIT" : "39.90",
+    "Cena / Wartość księgowa Grahama" : "26.47"
+  }
+}, {
+  "date" : "2016/Q1",
+  "keyValues" : {
+    "Cena / Wartość księgowa" : "17.20",
+    "Zysk na akcję" : null,
+    "Cena / Przychody ze sprzedaży" : "24.04",
+    "Cena / Zysk operacyjny" : "39.49",
+    "Wartość księgowa Grahama na akcję" : null,
+    "Cena / Zysk" : "47.90",
+    "Kurs" : null,
+    "EV / Przychody ze sprzedaży" : "22.99",
+    "Liczba akcji" : null,
+    "Wartość księgowa na akcję" : null,
+    "Zysk operacyjny na akcję" : null,
+    "Enterprise Value na akcję" : null,
+    "Przychody ze sprzedaży na akcję" : null,
+    "EV / EBITDA" : "31.13",
+    "EV / EBIT" : "37.77",
+    "Cena / Wartość księgowa Grahama" : "22.03"
+  }
+}, {
+  "date" : "2016/Q2",
+  "keyValues" : {
+    "Cena / Wartość księgowa" : "16.37",
+    "Zysk na akcję" : null,
+    "Cena / Przychody ze sprzedaży" : "25.55",
+    "Cena / Zysk operacyjny" : "48.03",
+    "Wartość księgowa Grahama na akcję" : null,
+    "Cena / Zysk" : "56.81",
+    "Kurs" : null,
+    "EV / Przychody ze sprzedaży" : "24.45",
+    "Liczba akcji" : null,
+    "Wartość księgowa na akcję" : null,
+    "Zysk operacyjny na akcję" : null,
+    "Enterprise Value na akcję" : null,
+    "Przychody ze sprzedaży na akcję" : null,
+    "EV / EBITDA" : "35.16",
+    "EV / EBIT" : "45.96",
+    "Cena / Wartość księgowa Grahama" : "20.82"
+  }
+}, {
+  "date" : "2016/Q3",
+  "keyValues" : {
+    "Cena / Wartość księgowa" : "15.73",
+    "Zysk na akcję" : null,
+    "Cena / Przychody ze sprzedaży" : "23.10",
+    "Cena / Zysk operacyjny" : "46.80",
+    "Wartość księgowa Grahama na akcję" : null,
+    "Cena / Zysk" : "60.41",
+    "Kurs" : null,
+    "EV / Przychody ze sprzedaży" : "22.01",
+    "Liczba akcji" : null,
+    "Wartość księgowa na akcję" : null,
+    "Zysk operacyjny na akcję" : null,
+    "Enterprise Value na akcję" : null,
+    "Przychody ze sprzedaży na akcję" : null,
+    "EV / EBITDA" : "37.24",
+    "EV / EBIT" : "44.58",
+    "Cena / Wartość księgowa Grahama" : "20.58"
+  }
+}, {
+  "date" : "2016/Q4",
+  "keyValues" : {
+    "Cena / Wartość księgowa" : "13.58",
+    "Zysk na akcję" : null,
+    "Cena / Przychody ze sprzedaży" : "21.17",
+    "Cena / Zysk operacyjny" : "40.47",
+    "Wartość księgowa Grahama na akcję" : null,
+    "Cena / Zysk" : "44.24",
+    "Kurs" : null,
+    "EV / Przychody ze sprzedaży" : "20.10",
+    "Liczba akcji" : null,
+    "Wartość księgowa na akcję" : null,
+    "Zysk operacyjny na akcję" : null,
+    "Enterprise Value na akcję" : null,
+    "Przychody ze sprzedaży na akcję" : null,
+    "EV / EBITDA" : "32.50",
+    "EV / EBIT" : "38.41",
+    "Cena / Wartość księgowa Grahama" : "17.53"
+  }
+}, {
+  "date" : "2017/Q1",
+  "keyValues" : {
+    "Cena / Wartość księgowa" : "13.93",
+    "Zysk na akcję" : null,
+    "Cena / Przychody ze sprzedaży" : "25.12",
+    "Cena / Zysk operacyjny" : "63.93",
+    "Wartość księgowa Grahama na akcję" : null,
+    "Cena / Zysk" : "78.50",
+    "Kurs" : null,
+    "EV / Przychody ze sprzedaży" : "23.84",
+    "Liczba akcji" : null,
+    "Wartość księgowa na akcję" : null,
+    "Zysk operacyjny na akcję" : null,
+    "Enterprise Value na akcję" : null,
+    "Przychody ze sprzedaży na akcję" : null,
+    "EV / EBITDA" : "49.78",
+    "EV / EBIT" : "60.67",
+    "Cena / Wartość księgowa Grahama" : "18.86"
+  }
+}, {
+  "date" : "2017/Q2",
+  "keyValues" : {
+    "Cena / Wartość księgowa" : "13.70",
+    "Zysk na akcję" : null,
+    "Cena / Przychody ze sprzedaży" : "25.18",
+    "Cena / Zysk operacyjny" : "60.68",
+    "Wartość księgowa Grahama na akcję" : null,
+    "Cena / Zysk" : "81.78",
+    "Kurs" : null,
+    "EV / Przychody ze sprzedaży" : "24.05",
+    "Liczba akcji" : null,
+    "Wartość księgowa na akcję" : null,
+    "Zysk operacyjny na akcję" : null,
+    "Enterprise Value na akcję" : null,
+    "Przychody ze sprzedaży na akcję" : null,
+    "EV / EBITDA" : "48.00",
+    "EV / EBIT" : "57.96",
+    "Cena / Wartość księgowa Grahama" : "18.70"
+  }
+}, {
+  "date" : "2017/Q3",
+  "keyValues" : {
+    "Cena / Wartość księgowa" : "13.97",
+    "Zysk na akcję" : null,
+    "Cena / Przychody ze sprzedaży" : "28.18",
+    "Cena / Zysk operacyjny" : "86.55",
+    "Wartość księgowa Grahama na akcję" : null,
+    "Cena / Zysk" : "116.83",
+    "Kurs" : null,
+    "EV / Przychody ze sprzedaży" : "26.87",
+    "Liczba akcji" : null,
+    "Wartość księgowa na akcję" : null,
+    "Zysk operacyjny na akcję" : null,
+    "Enterprise Value na akcję" : null,
+    "Przychody ze sprzedaży na akcję" : null,
+    "EV / EBITDA" : "63.94",
+    "EV / EBIT" : "82.53",
+    "Cena / Wartość księgowa Grahama" : "21.50"
+  }
+}, {
+  "date" : "2017/Q4",
+  "keyValues" : {
+    "Cena / Wartość księgowa" : "12.77",
+    "Zysk na akcję" : null,
+    "Cena / Przychody ze sprzedaży" : "30.76",
+    "Cena / Zysk operacyjny" : "78.43",
+    "Wartość księgowa Grahama na akcję" : null,
+    "Cena / Zysk" : "165.85",
+    "Kurs" : null,
+    "EV / Przychody ze sprzedaży" : "29.29",
+    "Liczba akcji" : null,
+    "Wartość księgowa na akcję" : null,
+    "Zysk operacyjny na akcję" : null,
+    "Enterprise Value na akcję" : null,
+    "Przychody ze sprzedaży na akcję" : null,
+    "EV / EBITDA" : "60.83",
+    "EV / EBIT" : "74.68",
+    "Cena / Wartość księgowa Grahama" : "20.31"
+  }
+}, {
+  "date" : "2018/Q1",
+  "keyValues" : {
+    "Cena / Wartość księgowa" : "13.04",
+    "Zysk na akcję" : null,
+    "Cena / Przychody ze sprzedaży" : "31.85",
+    "Cena / Zysk operacyjny" : "92.83",
+    "Wartość księgowa Grahama na akcję" : null,
+    "Cena / Zysk" : "162.47",
+    "Kurs" : null,
+    "EV / Przychody ze sprzedaży" : "30.44",
+    "Liczba akcji" : null,
+    "Wartość księgowa na akcję" : null,
+    "Zysk operacyjny na akcję" : null,
+    "Enterprise Value na akcję" : null,
+    "Przychody ze sprzedaży na akcję" : null,
+    "EV / EBITDA" : "67.30",
+    "EV / EBIT" : "88.71",
+    "Cena / Wartość księgowa Grahama" : "21.92"
+  }
+}, {
+  "date" : "2018/Q2",
+  "keyValues" : {
+    "Cena / Wartość księgowa" : "8.05",
+    "Zysk na akcję" : null,
+    "Cena / Przychody ze sprzedaży" : "10.50",
+    "Cena / Zysk operacyjny" : "16.97",
+    "Wartość księgowa Grahama na akcję" : null,
+    "Cena / Zysk" : "21.03",
+    "Kurs" : null,
+    "EV / Przychody ze sprzedaży" : "9.92",
+    "Liczba akcji" : null,
+    "Wartość księgowa na akcję" : null,
+    "Zysk operacyjny na akcję" : null,
+    "Enterprise Value na akcję" : null,
+    "Przychody ze sprzedaży na akcję" : null,
+    "EV / EBITDA" : "15.10",
+    "EV / EBIT" : "16.04",
+    "Cena / Wartość księgowa Grahama" : "11.29"
+  }
+}, {
+  "date" : "2018/Q3",
+  "keyValues" : {
+    "Cena / Wartość księgowa" : "7.49",
+    "Zysk na akcję" : null,
+    "Cena / Przychody ze sprzedaży" : "8.76",
+    "Cena / Zysk operacyjny" : "14.57",
+    "Wartość księgowa Grahama na akcję" : null,
+    "Cena / Zysk" : "18.16",
+    "Kurs" : null,
+    "EV / Przychody ze sprzedaży" : "8.32",
+    "Liczba akcji" : null,
+    "Wartość księgowa na akcję" : null,
+    "Zysk operacyjny na akcję" : null,
+    "Enterprise Value na akcję" : null,
+    "Przychody ze sprzedaży na akcję" : null,
+    "EV / EBITDA" : "12.81",
+    "EV / EBIT" : "13.84",
+    "Cena / Wartość księgowa Grahama" : "10.72"
+  }
+} ]

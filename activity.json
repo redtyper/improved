@@ -1,0 +1,466 @@
+[ {
+  "date" : "2009/Q4",
+  "keyValues" : {
+    "Rotacja należności" : null,
+    "Cykl operacyjny" : null,
+    "Rotacja majątku obrotowego" : null,
+    "Cykl zobowiązań" : null,
+    "Cykl zapasów" : null,
+    "Rotacja majątku ogółem" : null,
+    "Pokrycie kosztów kapitałem obrotowym" : null,
+    "Cykl konwersji gotówki" : null,
+    "Rotacja zapasów" : null,
+    "Cykl należności" : null,
+    "Rotacja majątku trwałego" : null
+  }
+}, {
+  "date" : "2010/Q4",
+  "keyValues" : {
+    "Rotacja należności" : "6.68",
+    "Cykl operacyjny" : "275",
+    "Rotacja majątku obrotowego" : "0.37",
+    "Cykl zobowiązań" : "49",
+    "Cykl zapasów" : "220",
+    "Rotacja majątku ogółem" : "0.35",
+    "Pokrycie kosztów kapitałem obrotowym" : "1.77",
+    "Cykl konwersji gotówki" : "226",
+    "Rotacja zapasów" : "1.66",
+    "Cykl należności" : "55",
+    "Rotacja majątku trwałego" : "8.46"
+  }
+}, {
+  "date" : "2011/Q3",
+  "keyValues" : {
+    "Rotacja należności" : "10.19",
+    "Cykl operacyjny" : "148",
+    "Rotacja majątku obrotowego" : "1.45",
+    "Cykl zobowiązań" : "13",
+    "Cykl zapasów" : "112",
+    "Rotacja majątku ogółem" : "1.37",
+    "Pokrycie kosztów kapitałem obrotowym" : "1.35",
+    "Cykl konwersji gotówki" : "135",
+    "Rotacja zapasów" : "3.27",
+    "Cykl należności" : "36",
+    "Rotacja majątku trwałego" : "27.03"
+  }
+}, {
+  "date" : "2011/Q4",
+  "keyValues" : {
+    "Rotacja należności" : "9.80",
+    "Cykl operacyjny" : "291",
+    "Rotacja majątku obrotowego" : "1.57",
+    "Cykl zobowiązań" : "17",
+    "Cykl zapasów" : "254",
+    "Rotacja majątku ogółem" : "1.50",
+    "Pokrycie kosztów kapitałem obrotowym" : "1.69",
+    "Cykl konwersji gotówki" : "274",
+    "Rotacja zapasów" : "1.44",
+    "Cykl należności" : "37",
+    "Rotacja majątku trwałego" : "33.85"
+  }
+}, {
+  "date" : "2012/Q1",
+  "keyValues" : {
+    "Rotacja należności" : "9.08",
+    "Cykl operacyjny" : "271",
+    "Rotacja majątku obrotowego" : "1.56",
+    "Cykl zobowiązań" : "12",
+    "Cykl zapasów" : "231",
+    "Rotacja majątku ogółem" : "1.51",
+    "Pokrycie kosztów kapitałem obrotowym" : "1.82",
+    "Cykl konwersji gotówki" : "259",
+    "Rotacja zapasów" : "1.58",
+    "Cykl należności" : "40",
+    "Rotacja majątku trwałego" : "47.61"
+  }
+}, {
+  "date" : "2012/Q2",
+  "keyValues" : {
+    "Rotacja należności" : "8.35",
+    "Cykl operacyjny" : "268",
+    "Rotacja majątku obrotowego" : "1.19",
+    "Cykl zobowiązań" : "14",
+    "Cykl zapasów" : "224",
+    "Rotacja majątku ogółem" : "1.16",
+    "Pokrycie kosztów kapitałem obrotowym" : "1.76",
+    "Cykl konwersji gotówki" : "254",
+    "Rotacja zapasów" : "1.63",
+    "Cykl należności" : "44",
+    "Rotacja majątku trwałego" : "51.31"
+  }
+}, {
+  "date" : "2012/Q3",
+  "keyValues" : {
+    "Rotacja należności" : "8.50",
+    "Cykl operacyjny" : "227",
+    "Rotacja majątku obrotowego" : "0.91",
+    "Cykl zobowiązań" : "14",
+    "Cykl zapasów" : "184",
+    "Rotacja majątku ogółem" : "0.89",
+    "Pokrycie kosztów kapitałem obrotowym" : "2.73",
+    "Cykl konwersji gotówki" : "213",
+    "Rotacja zapasów" : "1.98",
+    "Cykl należności" : "43",
+    "Rotacja majątku trwałego" : "53.37"
+  }
+}, {
+  "date" : "2012/Q4",
+  "keyValues" : {
+    "Rotacja należności" : "7.73",
+    "Cykl operacyjny" : "283",
+    "Rotacja majątku obrotowego" : "0.94",
+    "Cykl zobowiązań" : "9",
+    "Cykl zapasów" : "236",
+    "Rotacja majątku ogółem" : "0.93",
+    "Pokrycie kosztów kapitałem obrotowym" : "2.42",
+    "Cykl konwersji gotówki" : "274",
+    "Rotacja zapasów" : "1.55",
+    "Cykl należności" : "47",
+    "Rotacja majątku trwałego" : "68.26"
+  }
+}, {
+  "date" : "2013/Q1",
+  "keyValues" : {
+    "Rotacja należności" : "8.37",
+    "Cykl operacyjny" : "334",
+    "Rotacja majątku obrotowego" : "0.80",
+    "Cykl zobowiązań" : "13",
+    "Cykl zapasów" : "290",
+    "Rotacja majątku ogółem" : "0.79",
+    "Pokrycie kosztów kapitałem obrotowym" : "2.13",
+    "Cykl konwersji gotówki" : "321",
+    "Rotacja zapasów" : "1.26",
+    "Cykl należności" : "44",
+    "Rotacja majątku trwałego" : "61.92"
+  }
+}, {
+  "date" : "2013/Q2",
+  "keyValues" : {
+    "Rotacja należności" : "8.75",
+    "Cykl operacyjny" : "295",
+    "Rotacja majątku obrotowego" : "0.82",
+    "Cykl zobowiązań" : "13",
+    "Cykl zapasów" : "253",
+    "Rotacja majątku ogółem" : "0.80",
+    "Pokrycie kosztów kapitałem obrotowym" : "1.80",
+    "Cykl konwersji gotówki" : "282",
+    "Rotacja zapasów" : "1.44",
+    "Cykl należności" : "42",
+    "Rotacja majątku trwałego" : "27.82"
+  }
+}, {
+  "date" : "2013/Q3",
+  "keyValues" : {
+    "Rotacja należności" : "8.43",
+    "Cykl operacyjny" : "282",
+    "Rotacja majątku obrotowego" : "0.76",
+    "Cykl zobowiązań" : "17",
+    "Cykl zapasów" : "239",
+    "Rotacja majątku ogółem" : "0.72",
+    "Pokrycie kosztów kapitałem obrotowym" : "1.61",
+    "Cykl konwersji gotówki" : "265",
+    "Rotacja zapasów" : "1.53",
+    "Cykl należności" : "43",
+    "Rotacja majątku trwałego" : "17.15"
+  }
+}, {
+  "date" : "2013/Q4",
+  "keyValues" : {
+    "Rotacja należności" : "10.06",
+    "Cykl operacyjny" : "288",
+    "Rotacja majątku obrotowego" : "0.77",
+    "Cykl zobowiązań" : "17",
+    "Cykl zapasów" : "252",
+    "Rotacja majątku ogółem" : "0.73",
+    "Pokrycie kosztów kapitałem obrotowym" : "1.88",
+    "Cykl konwersji gotówki" : "271",
+    "Rotacja zapasów" : "1.45",
+    "Cykl należności" : "36",
+    "Rotacja majątku trwałego" : "13.00"
+  }
+}, {
+  "date" : "2014/Q1",
+  "keyValues" : {
+    "Rotacja należności" : "9.39",
+    "Cykl operacyjny" : "295",
+    "Rotacja majątku obrotowego" : "0.72",
+    "Cykl zobowiązań" : "18",
+    "Cykl zapasów" : "256",
+    "Rotacja majątku ogółem" : "0.67",
+    "Pokrycie kosztów kapitałem obrotowym" : "1.67",
+    "Cykl konwersji gotówki" : "277",
+    "Rotacja zapasów" : "1.43",
+    "Cykl należności" : "39",
+    "Rotacja majątku trwałego" : "9.64"
+  }
+}, {
+  "date" : "2014/Q2",
+  "keyValues" : {
+    "Rotacja należności" : "9.65",
+    "Cykl operacyjny" : "252",
+    "Rotacja majątku obrotowego" : "0.73",
+    "Cykl zobowiązań" : "20",
+    "Cykl zapasów" : "214",
+    "Rotacja majątku ogółem" : "0.68",
+    "Pokrycie kosztów kapitałem obrotowym" : "1.13",
+    "Cykl konwersji gotówki" : "232",
+    "Rotacja zapasów" : "1.70",
+    "Cykl należności" : "38",
+    "Rotacja majątku trwałego" : "8.77"
+  }
+}, {
+  "date" : "2014/Q3",
+  "keyValues" : {
+    "Rotacja należności" : "8.36",
+    "Cykl operacyjny" : "318",
+    "Rotacja majątku obrotowego" : "0.75",
+    "Cykl zobowiązań" : "21",
+    "Cykl zapasów" : "274",
+    "Rotacja majątku ogółem" : "0.68",
+    "Pokrycie kosztów kapitałem obrotowym" : "1.23",
+    "Cykl konwersji gotówki" : "297",
+    "Rotacja zapasów" : "1.33",
+    "Cykl należności" : "44",
+    "Rotacja majątku trwałego" : "7.59"
+  }
+}, {
+  "date" : "2014/Q4",
+  "keyValues" : {
+    "Rotacja należności" : "7.88",
+    "Cykl operacyjny" : "298",
+    "Rotacja majątku obrotowego" : "1.72",
+    "Cykl zobowiązań" : "16",
+    "Cykl zapasów" : "252",
+    "Rotacja majątku ogółem" : "1.57",
+    "Pokrycie kosztów kapitałem obrotowym" : "2.95",
+    "Cykl konwersji gotówki" : "282",
+    "Rotacja zapasów" : "1.45",
+    "Cykl należności" : "46",
+    "Rotacja majątku trwałego" : "17.40"
+  }
+}, {
+  "date" : "2015/Q1",
+  "keyValues" : {
+    "Rotacja należności" : "6.66",
+    "Cykl operacyjny" : "315",
+    "Rotacja majątku obrotowego" : "1.59",
+    "Cykl zobowiązań" : "33",
+    "Cykl zapasów" : "260",
+    "Rotacja majątku ogółem" : "1.46",
+    "Pokrycie kosztów kapitałem obrotowym" : "3.15",
+    "Cykl konwersji gotówki" : "282",
+    "Rotacja zapasów" : "1.41",
+    "Cykl należności" : "55",
+    "Rotacja majątku trwałego" : "18.06"
+  }
+}, {
+  "date" : "2015/Q2",
+  "keyValues" : {
+    "Rotacja należności" : "6.20",
+    "Cykl operacyjny" : "374",
+    "Rotacja majątku obrotowego" : "1.44",
+    "Cykl zobowiązań" : "29",
+    "Cykl zapasów" : "315",
+    "Rotacja majątku ogółem" : "1.34",
+    "Pokrycie kosztów kapitałem obrotowym" : "4.81",
+    "Cykl konwersji gotówki" : "345",
+    "Rotacja zapasów" : "1.16",
+    "Cykl należności" : "59",
+    "Rotacja majątku trwałego" : "19.45"
+  }
+}, {
+  "date" : "2015/Q3",
+  "keyValues" : {
+    "Rotacja należności" : "6.17",
+    "Cykl operacyjny" : "267",
+    "Rotacja majątku obrotowego" : "1.31",
+    "Cykl zobowiązań" : "28",
+    "Cykl zapasów" : "208",
+    "Rotacja majątku ogółem" : "1.16",
+    "Pokrycie kosztów kapitałem obrotowym" : "4.70",
+    "Cykl konwersji gotówki" : "239",
+    "Rotacja zapasów" : "1.75",
+    "Cykl należności" : "59",
+    "Rotacja majątku trwałego" : "10.10"
+  }
+}, {
+  "date" : "2015/Q4",
+  "keyValues" : {
+    "Rotacja należności" : "6.06",
+    "Cykl operacyjny" : "170",
+    "Rotacja majątku obrotowego" : "0.93",
+    "Cykl zobowiązań" : "42",
+    "Cykl zapasów" : "110",
+    "Rotacja majątku ogółem" : "0.79",
+    "Pokrycie kosztów kapitałem obrotowym" : "3.54",
+    "Cykl konwersji gotówki" : "128",
+    "Rotacja zapasów" : "3.32",
+    "Cykl należności" : "60",
+    "Rotacja majątku trwałego" : "5.32"
+  }
+}, {
+  "date" : "2016/Q1",
+  "keyValues" : {
+    "Rotacja należności" : "6.82",
+    "Cykl operacyjny" : "103",
+    "Rotacja majątku obrotowego" : "0.92",
+    "Cykl zobowiązań" : "31",
+    "Cykl zapasów" : "49",
+    "Rotacja majątku ogółem" : "0.75",
+    "Pokrycie kosztów kapitałem obrotowym" : "4.55",
+    "Cykl konwersji gotówki" : "72",
+    "Rotacja zapasów" : "7.42",
+    "Cykl należności" : "54",
+    "Rotacja majątku trwałego" : "4.13"
+  }
+}, {
+  "date" : "2016/Q2",
+  "keyValues" : {
+    "Rotacja należności" : "6.18",
+    "Cykl operacyjny" : null,
+    "Rotacja majątku obrotowego" : "0.84",
+    "Cykl zobowiązań" : "37",
+    "Cykl zapasów" : null,
+    "Rotacja majątku ogółem" : "0.66",
+    "Pokrycie kosztów kapitałem obrotowym" : "4.19",
+    "Cykl konwersji gotówki" : null,
+    "Rotacja zapasów" : null,
+    "Cykl należności" : "59",
+    "Rotacja majątku trwałego" : "3.08"
+  }
+}, {
+  "date" : "2016/Q3",
+  "keyValues" : {
+    "Rotacja należności" : "6.48",
+    "Cykl operacyjny" : null,
+    "Rotacja majątku obrotowego" : "0.86",
+    "Cykl zobowiązań" : "38",
+    "Cykl zapasów" : null,
+    "Rotacja majątku ogółem" : "0.68",
+    "Pokrycie kosztów kapitałem obrotowym" : "2.93",
+    "Cykl konwersji gotówki" : null,
+    "Rotacja zapasów" : null,
+    "Cykl należności" : "56",
+    "Rotacja majątku trwałego" : "3.26"
+  }
+}, {
+  "date" : "2016/Q4",
+  "keyValues" : {
+    "Rotacja należności" : "6.00",
+    "Cykl operacyjny" : null,
+    "Rotacja majątku obrotowego" : "0.86",
+    "Cykl zobowiązań" : "33",
+    "Cykl zapasów" : null,
+    "Rotacja majątku ogółem" : "0.68",
+    "Pokrycie kosztów kapitałem obrotowym" : "3.52",
+    "Cykl konwersji gotówki" : null,
+    "Rotacja zapasów" : null,
+    "Cykl należności" : "61",
+    "Rotacja majątku trwałego" : "3.29"
+  }
+}, {
+  "date" : "2017/Q1",
+  "keyValues" : {
+    "Rotacja należności" : "5.57",
+    "Cykl operacyjny" : null,
+    "Rotacja majątku obrotowego" : "0.71",
+    "Cykl zobowiązań" : "34",
+    "Cykl zapasów" : null,
+    "Rotacja majątku ogółem" : "0.55",
+    "Pokrycie kosztów kapitałem obrotowym" : "2.91",
+    "Cykl konwersji gotówki" : null,
+    "Rotacja zapasów" : null,
+    "Cykl należności" : "65",
+    "Rotacja majątku trwałego" : "2.51"
+  }
+}, {
+  "date" : "2017/Q2",
+  "keyValues" : {
+    "Rotacja należności" : "5.94",
+    "Cykl operacyjny" : null,
+    "Rotacja majątku obrotowego" : "0.71",
+    "Cykl zobowiązań" : "31",
+    "Cykl zapasów" : null,
+    "Rotacja majątku ogółem" : "0.54",
+    "Pokrycie kosztów kapitałem obrotowym" : "3.16",
+    "Cykl konwersji gotówki" : null,
+    "Rotacja zapasów" : null,
+    "Cykl należności" : "61",
+    "Rotacja majątku trwałego" : "2.33"
+  }
+}, {
+  "date" : "2017/Q3",
+  "keyValues" : {
+    "Rotacja należności" : "5.65",
+    "Cykl operacyjny" : null,
+    "Rotacja majątku obrotowego" : "0.64",
+    "Cykl zobowiązań" : "33",
+    "Cykl zapasów" : null,
+    "Rotacja majątku ogółem" : "0.47",
+    "Pokrycie kosztów kapitałem obrotowym" : "2.82",
+    "Cykl konwersji gotówki" : null,
+    "Rotacja zapasów" : null,
+    "Cykl należności" : "65",
+    "Rotacja majątku trwałego" : "1.80"
+  }
+}, {
+  "date" : "2017/Q4",
+  "keyValues" : {
+    "Rotacja należności" : "6.20",
+    "Cykl operacyjny" : null,
+    "Rotacja majątku obrotowego" : "0.60",
+    "Cykl zobowiązań" : "29",
+    "Cykl zapasów" : null,
+    "Rotacja majątku ogółem" : "0.42",
+    "Pokrycie kosztów kapitałem obrotowym" : "3.51",
+    "Cykl konwersji gotówki" : null,
+    "Rotacja zapasów" : null,
+    "Cykl należności" : "59",
+    "Rotacja majątku trwałego" : "1.42"
+  }
+}, {
+  "date" : "2018/Q1",
+  "keyValues" : {
+    "Rotacja należności" : "6.25",
+    "Cykl operacyjny" : null,
+    "Rotacja majątku obrotowego" : "0.60",
+    "Cykl zobowiązań" : "27",
+    "Cykl zapasów" : null,
+    "Rotacja majątku ogółem" : "0.40",
+    "Pokrycie kosztów kapitałem obrotowym" : "3.40",
+    "Cykl konwersji gotówki" : null,
+    "Rotacja zapasów" : null,
+    "Cykl należności" : "58",
+    "Rotacja majątku trwałego" : "1.20"
+  }
+}, {
+  "date" : "2018/Q2",
+  "keyValues" : {
+    "Rotacja należności" : "11.35",
+    "Cykl operacyjny" : null,
+    "Rotacja majątku obrotowego" : "1.49",
+    "Cykl zobowiązań" : "20",
+    "Cykl zapasów" : null,
+    "Rotacja majątku ogółem" : "1.01",
+    "Pokrycie kosztów kapitałem obrotowym" : "2.95",
+    "Cykl konwersji gotówki" : null,
+    "Rotacja zapasów" : null,
+    "Cykl należności" : "32",
+    "Rotacja majątku trwałego" : "3.15"
+  }
+}, {
+  "date" : "2018/Q3",
+  "keyValues" : {
+    "Rotacja należności" : "11.35",
+    "Cykl operacyjny" : null,
+    "Rotacja majątku obrotowego" : "1.46",
+    "Cykl zobowiązań" : "24",
+    "Cykl zapasów" : null,
+    "Rotacja majątku ogółem" : "1.02",
+    "Pokrycie kosztów kapitałem obrotowym" : "2.44",
+    "Cykl konwersji gotówki" : null,
+    "Rotacja zapasów" : null,
+    "Cykl należności" : "32",
+    "Rotacja majątku trwałego" : "3.35"
+  }
+} ]

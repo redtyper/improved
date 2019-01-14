@@ -1,0 +1,373 @@
+[ {
+  "date" : "2009/Q4",
+  "keyValues" : {
+    "Marża zysku operacyjnego" : null,
+    "Marża zysku brutto ze sprzedaży" : null,
+    "ROA" : null,
+    "Marża zysku brutto" : null,
+    "ROE" : null,
+    "Rentowność operacyjna aktywów" : null,
+    "Marża zysku netto" : null,
+    "Marża zysku ze sprzedaży" : null
+  }
+}, {
+  "date" : "2010/Q4",
+  "keyValues" : {
+    "Marża zysku operacyjnego" : "-59.92%",
+    "Marża zysku brutto ze sprzedaży" : null,
+    "ROA" : "-17.09%",
+    "Marża zysku brutto" : "-60.13%",
+    "ROE" : "-18.22%",
+    "Rentowność operacyjna aktywów" : "-21.01%",
+    "Marża zysku netto" : "-48.73%",
+    "Marża zysku ze sprzedaży" : "-59.92%"
+  }
+}, {
+  "date" : "2011/Q3",
+  "keyValues" : {
+    "Marża zysku operacyjnego" : "33.09%",
+    "Marża zysku brutto ze sprzedaży" : null,
+    "ROA" : "29.58%",
+    "Marża zysku brutto" : "34.26%",
+    "ROE" : "30.73%",
+    "Rentowność operacyjna aktywów" : "34.49%",
+    "Marża zysku netto" : "28.39%",
+    "Marża zysku ze sprzedaży" : "33.05%"
+  }
+}, {
+  "date" : "2011/Q4",
+  "keyValues" : {
+    "Marża zysku operacyjnego" : "47.76%",
+    "Marża zysku brutto ze sprzedaży" : null,
+    "ROA" : "43.30%",
+    "Marża zysku brutto" : "51.88%",
+    "ROE" : "50.49%",
+    "Rentowność operacyjna aktywów" : "48.86%",
+    "Marża zysku netto" : "42.32%",
+    "Marża zysku ze sprzedaży" : "47.79%"
+  }
+}, {
+  "date" : "2012/Q1",
+  "keyValues" : {
+    "Marża zysku operacyjnego" : "50.36%",
+    "Marża zysku brutto ze sprzedaży" : null,
+    "ROA" : "49.87%",
+    "Marża zysku brutto" : "53.14%",
+    "ROE" : "53.15%",
+    "Rentowność operacyjna aktywów" : "56.26%",
+    "Marża zysku netto" : "44.64%",
+    "Marża zysku ze sprzedaży" : "50.39%"
+  }
+}, {
+  "date" : "2012/Q2",
+  "keyValues" : {
+    "Marża zysku operacyjnego" : "42.96%",
+    "Marża zysku brutto ze sprzedaży" : null,
+    "ROA" : "38.36%",
+    "Marża zysku brutto" : "46.20%",
+    "ROE" : "40.88%",
+    "Rentowność operacyjna aktywów" : "43.73%",
+    "Marża zysku netto" : "37.69%",
+    "Marża zysku ze sprzedaży" : "42.99%"
+  }
+}, {
+  "date" : "2012/Q3",
+  "keyValues" : {
+    "Marża zysku operacyjnego" : "32.87%",
+    "Marża zysku brutto ze sprzedaży" : null,
+    "ROA" : "16.45%",
+    "Marża zysku brutto" : "35.60%",
+    "ROE" : "17.21%",
+    "Rentowność operacyjna aktywów" : "18.58%",
+    "Marża zysku netto" : "29.10%",
+    "Marża zysku ze sprzedaży" : "33.40%"
+  }
+}, {
+  "date" : "2012/Q4",
+  "keyValues" : {
+    "Marża zysku operacyjnego" : "37.43%",
+    "Marża zysku brutto ze sprzedaży" : null,
+    "ROA" : "18.33%",
+    "Marża zysku brutto" : "35.14%",
+    "ROE" : "19.45%",
+    "Rentowność operacyjna aktywów" : "24.47%",
+    "Marża zysku netto" : "28.05%",
+    "Marża zysku ze sprzedaży" : "37.29%"
+  }
+}, {
+  "date" : "2013/Q1",
+  "keyValues" : {
+    "Marża zysku operacyjnego" : "29.17%",
+    "Marża zysku brutto ze sprzedaży" : null,
+    "ROA" : "13.67%",
+    "Marża zysku brutto" : "27.37%",
+    "ROE" : "14.53%",
+    "Rentowność operacyjna aktywów" : "19.01%",
+    "Marża zysku netto" : "20.97%",
+    "Marża zysku ze sprzedaży" : "29.03%"
+  }
+}, {
+  "date" : "2013/Q2",
+  "keyValues" : {
+    "Marża zysku operacyjnego" : "31.60%",
+    "Marża zysku brutto ze sprzedaży" : null,
+    "ROA" : "18.02%",
+    "Marża zysku brutto" : "30.30%",
+    "ROE" : "19.08%",
+    "Rentowność operacyjna aktywów" : "23.56%",
+    "Marża zysku netto" : "24.17%",
+    "Marża zysku ze sprzedaży" : "31.31%"
+  }
+}, {
+  "date" : "2013/Q3",
+  "keyValues" : {
+    "Marża zysku operacyjnego" : "21.89%",
+    "Marża zysku brutto ze sprzedaży" : null,
+    "ROA" : "11.86%",
+    "Marża zysku brutto" : "20.65%",
+    "ROE" : "12.61%",
+    "Rentowność operacyjna aktywów" : "15.90%",
+    "Marża zysku netto" : "16.33%",
+    "Marża zysku ze sprzedaży" : "21.26%"
+  }
+}, {
+  "date" : "2013/Q4",
+  "keyValues" : {
+    "Marża zysku operacyjnego" : "24.42%",
+    "Marża zysku brutto ze sprzedaży" : null,
+    "ROA" : "11.57%",
+    "Marża zysku brutto" : "22.49%",
+    "ROE" : "12.72%",
+    "Rentowność operacyjna aktywów" : "16.00%",
+    "Marża zysku netto" : "17.66%",
+    "Marża zysku ze sprzedaży" : "23.70%"
+  }
+}, {
+  "date" : "2014/Q1",
+  "keyValues" : {
+    "Marża zysku operacyjnego" : "14.97%",
+    "Marża zysku brutto ze sprzedaży" : null,
+    "ROA" : "5.21%",
+    "Marża zysku brutto" : "12.68%",
+    "ROE" : "5.70%",
+    "Rentowność operacyjna aktywów" : "9.87%",
+    "Marża zysku netto" : "7.91%",
+    "Marża zysku ze sprzedaży" : "13.41%"
+  }
+}, {
+  "date" : "2014/Q2",
+  "keyValues" : {
+    "Marża zysku operacyjnego" : "-11.46%",
+    "Marża zysku brutto ze sprzedaży" : null,
+    "ROA" : "-11.76%",
+    "Marża zysku brutto" : "-14.12%",
+    "ROE" : "-13.19%",
+    "Rentowność operacyjna aktywów" : "-7.98%",
+    "Marża zysku netto" : "-16.89%",
+    "Marża zysku ze sprzedaży" : "-13.65%"
+  }
+}, {
+  "date" : "2014/Q3",
+  "keyValues" : {
+    "Marża zysku operacyjnego" : "1.98%",
+    "Marża zysku brutto ze sprzedaży" : null,
+    "ROA" : "-3.45%",
+    "Marża zysku brutto" : "-0.14%",
+    "ROE" : "-3.98%",
+    "Rentowność operacyjna aktywów" : "1.40%",
+    "Marża zysku netto" : "-4.86%",
+    "Marża zysku ze sprzedaży" : "0.47%"
+  }
+}, {
+  "date" : "2014/Q4",
+  "keyValues" : {
+    "Marża zysku operacyjnego" : "63.61%",
+    "Marża zysku brutto ze sprzedaży" : null,
+    "ROA" : "42.93%",
+    "Marża zysku brutto" : "64.64%",
+    "ROE" : "54.31%",
+    "Rentowność operacyjna aktywów" : "52.27%",
+    "Marża zysku netto" : "52.24%",
+    "Marża zysku ze sprzedaży" : "64.56%"
+  }
+}, {
+  "date" : "2015/Q1",
+  "keyValues" : {
+    "Marża zysku operacyjnego" : "70.45%",
+    "Marża zysku brutto ze sprzedaży" : null,
+    "ROA" : "50.48%",
+    "Marża zysku brutto" : "72.33%",
+    "ROE" : "64.98%",
+    "Rentowność operacyjna aktywów" : "60.00%",
+    "Marża zysku netto" : "59.27%",
+    "Marża zysku ze sprzedaży" : "71.27%"
+  }
+}, {
+  "date" : "2015/Q2",
+  "keyValues" : {
+    "Marża zysku operacyjnego" : "77.01%",
+    "Marża zysku brutto ze sprzedaży" : null,
+    "ROA" : "65.80%",
+    "Marża zysku brutto" : "78.90%",
+    "ROE" : "68.99%",
+    "Rentowność operacyjna aktywów" : "78.65%",
+    "Marża zysku netto" : "64.43%",
+    "Marża zysku ze sprzedaży" : "79.97%"
+  }
+}, {
+  "date" : "2015/Q3",
+  "keyValues" : {
+    "Marża zysku operacyjnego" : "77.07%",
+    "Marża zysku brutto ze sprzedaży" : null,
+    "ROA" : "69.81%",
+    "Marża zysku brutto" : "79.03%",
+    "ROE" : "75.16%",
+    "Rentowność operacyjna aktywów" : "82.36%",
+    "Marża zysku netto" : "65.32%",
+    "Marża zysku ze sprzedaży" : "78.75%"
+  }
+}, {
+  "date" : "2015/Q4",
+  "keyValues" : {
+    "Marża zysku operacyjnego" : "59.40%",
+    "Marża zysku brutto ze sprzedaży" : null,
+    "ROA" : "35.24%",
+    "Marża zysku brutto" : "63.36%",
+    "ROE" : "40.33%",
+    "Rentowność operacyjna aktywów" : "41.93%",
+    "Marża zysku netto" : "49.92%",
+    "Marża zysku ze sprzedaży" : "62.29%"
+  }
+}, {
+  "date" : "2016/Q1",
+  "keyValues" : {
+    "Marża zysku operacyjnego" : "60.88%",
+    "Marża zysku brutto ze sprzedaży" : null,
+    "ROA" : "32.50%",
+    "Marża zysku brutto" : "63.81%",
+    "ROE" : "35.90%",
+    "Rentowność operacyjna aktywów" : "39.42%",
+    "Marża zysku netto" : "50.19%",
+    "Marża zysku ze sprzedaży" : "62.53%"
+  }
+}, {
+  "date" : "2016/Q2",
+  "keyValues" : {
+    "Marża zysku operacyjnego" : "53.20%",
+    "Marża zysku brutto ze sprzedaży" : null,
+    "ROA" : "26.85%",
+    "Marża zysku brutto" : "58.03%",
+    "ROE" : "28.82%",
+    "Rentowność operacyjna aktywów" : "31.76%",
+    "Marża zysku netto" : "44.97%",
+    "Marża zysku ze sprzedaży" : "53.73%"
+  }
+}, {
+  "date" : "2016/Q3",
+  "keyValues" : {
+    "Marża zysku operacyjnego" : "49.36%",
+    "Marża zysku brutto ze sprzedaży" : null,
+    "ROA" : "24.39%",
+    "Marża zysku brutto" : "51.12%",
+    "ROE" : "26.05%",
+    "Rentowność operacyjna aktywów" : "31.48%",
+    "Marża zysku netto" : "38.25%",
+    "Marża zysku ze sprzedaży" : "51.20%"
+  }
+}, {
+  "date" : "2016/Q4",
+  "keyValues" : {
+    "Marża zysku operacyjnego" : "52.32%",
+    "Marża zysku brutto ze sprzedaży" : null,
+    "ROA" : "28.32%",
+    "Marża zysku brutto" : "58.22%",
+    "ROE" : "30.69%",
+    "Rentowność operacyjna aktywów" : "30.96%",
+    "Marża zysku netto" : "47.86%",
+    "Marża zysku ze sprzedaży" : "55.67%"
+  }
+}, {
+  "date" : "2017/Q1",
+  "keyValues" : {
+    "Marża zysku operacyjnego" : "39.29%",
+    "Marża zysku brutto ze sprzedaży" : null,
+    "ROA" : "16.95%",
+    "Marża zysku brutto" : "40.77%",
+    "ROE" : "17.75%",
+    "Rentowność operacyjna aktywów" : "20.81%",
+    "Marża zysku netto" : "32.00%",
+    "Marża zysku ze sprzedaży" : "45.00%"
+  }
+}, {
+  "date" : "2017/Q2",
+  "keyValues" : {
+    "Marża zysku operacyjnego" : "41.49%",
+    "Marża zysku brutto ze sprzedaży" : null,
+    "ROA" : "16.02%",
+    "Marża zysku brutto" : "36.31%",
+    "ROE" : "16.75%",
+    "Rentowność operacyjna aktywów" : "21.58%",
+    "Marża zysku netto" : "30.79%",
+    "Marża zysku ze sprzedaży" : "48.14%"
+  }
+}, {
+  "date" : "2017/Q3",
+  "keyValues" : {
+    "Marża zysku operacyjnego" : "32.55%",
+    "Marża zysku brutto ze sprzedaży" : null,
+    "ROA" : "11.36%",
+    "Marża zysku brutto" : "27.74%",
+    "ROE" : "11.96%",
+    "Rentowność operacyjna aktywów" : "15.33%",
+    "Marża zysku netto" : "24.12%",
+    "Marża zysku ze sprzedaży" : "42.58%"
+  }
+}, {
+  "date" : "2017/Q4",
+  "keyValues" : {
+    "Marża zysku operacyjnego" : "39.22%",
+    "Marża zysku brutto ze sprzedaży" : null,
+    "ROA" : "7.31%",
+    "Marża zysku brutto" : "23.61%",
+    "ROE" : "7.70%",
+    "Rentowność operacyjna aktywów" : "15.47%",
+    "Marża zysku netto" : "18.54%",
+    "Marża zysku ze sprzedaży" : "46.85%"
+  }
+}, {
+  "date" : "2018/Q1",
+  "keyValues" : {
+    "Marża zysku operacyjnego" : "34.32%",
+    "Marża zysku brutto ze sprzedaży" : null,
+    "ROA" : "7.75%",
+    "Marża zysku brutto" : "24.14%",
+    "ROE" : "8.03%",
+    "Rentowność operacyjna aktywów" : "13.57%",
+    "Marża zysku netto" : "19.61%",
+    "Marża zysku ze sprzedaży" : "45.12%"
+  }
+}, {
+  "date" : "2018/Q2",
+  "keyValues" : {
+    "Marża zysku operacyjnego" : "61.88%",
+    "Marża zysku brutto ze sprzedaży" : null,
+    "ROA" : "34.10%",
+    "Marża zysku brutto" : "62.96%",
+    "ROE" : "38.26%",
+    "Rentowność operacyjna aktywów" : "42.26%",
+    "Marża zysku netto" : "49.93%",
+    "Marża zysku ze sprzedaży" : "64.14%"
+  }
+}, {
+  "date" : "2018/Q3",
+  "keyValues" : {
+    "Marża zysku operacyjnego" : "60.11%",
+    "Marża zysku brutto ze sprzedaży" : null,
+    "ROA" : "37.49%",
+    "Marża zysku brutto" : "61.29%",
+    "ROE" : "41.22%",
+    "Rentowność operacyjna aktywów" : "46.72%",
+    "Marża zysku netto" : "48.23%",
+    "Marża zysku ze sprzedaży" : "61.13%"
+  }
+} ]

@@ -1,0 +1,373 @@
+[ {
+  "date" : "2009/Q4",
+  "keyValues" : {
+    "II stopień pokrycia" : null,
+    "I stopień pokrycia" : null,
+    "Udział kapitału pracującego w aktywach" : "1.00",
+    "Pokrycie zobowiązań należnościami" : null,
+    "Płynność szybka" : null,
+    "Płynność podwyższona" : null,
+    "Płynność bieżąca" : null,
+    "Płynność gotówkowa" : null
+  }
+}, {
+  "date" : "2010/Q4",
+  "keyValues" : {
+    "II stopień pokrycia" : "22.64",
+    "I stopień pokrycia" : "22.64",
+    "Udział kapitału pracującego w aktywach" : "0.91",
+    "Pokrycie zobowiązań należnościami" : "1.13",
+    "Płynność szybka" : "12.98",
+    "Płynność podwyższona" : "11.62",
+    "Płynność bieżąca" : "20.57",
+    "Płynność gotówkowa" : "11.62"
+  }
+}, {
+  "date" : "2011/Q3",
+  "keyValues" : {
+    "II stopień pokrycia" : "24.24",
+    "I stopień pokrycia" : "24.24",
+    "Udział kapitału pracującego w aktywach" : "0.92",
+    "Pokrycie zobowiązań należnościami" : "5.40",
+    "Płynność szybka" : "25.69",
+    "Płynność podwyższona" : "9.23",
+    "Płynność bieżąca" : "25.69",
+    "Płynność gotówkowa" : "9.23"
+  }
+}, {
+  "date" : "2011/Q4",
+  "keyValues" : {
+    "II stopień pokrycia" : "29.44",
+    "I stopień pokrycia" : "29.44",
+    "Udział kapitału pracującego w aktywach" : "0.87",
+    "Pokrycie zobowiązań należnościami" : "1.45",
+    "Płynność szybka" : "5.46",
+    "Płynność podwyższona" : "4.25",
+    "Płynność bieżąca" : "9.47",
+    "Płynność gotówkowa" : "4.25"
+  }
+}, {
+  "date" : "2012/Q1",
+  "keyValues" : {
+    "II stopień pokrycia" : "63.90",
+    "I stopień pokrycia" : "63.90",
+    "Udział kapitału pracującego w aktywach" : "0.96",
+    "Pokrycie zobowiązań należnościami" : "7.43",
+    "Płynność szybka" : "25.72",
+    "Płynność podwyższona" : "20.04",
+    "Płynność bieżąca" : "45.03",
+    "Płynność gotówkowa" : "20.04"
+  }
+}, {
+  "date" : "2012/Q2",
+  "keyValues" : {
+    "II stopień pokrycia" : "65.65",
+    "I stopień pokrycia" : "65.65",
+    "Udział kapitału pracującego w aktywach" : "0.96",
+    "Pokrycie zobowiązań należnościami" : "3.12",
+    "Płynność szybka" : "43.81",
+    "Płynność podwyższona" : "21.68",
+    "Płynność bieżąca" : "45.66",
+    "Płynność gotówkowa" : "21.68"
+  }
+}, {
+  "date" : "2012/Q3",
+  "keyValues" : {
+    "II stopień pokrycia" : "72.20",
+    "I stopień pokrycia" : "72.20",
+    "Udział kapitału pracującego w aktywach" : "0.97",
+    "Pokrycie zobowiązań należnościami" : "5.04",
+    "Płynność szybka" : "66.08",
+    "Płynność podwyższona" : "42.22",
+    "Płynność bieżąca" : "68.12",
+    "Płynność gotówkowa" : "42.22"
+  }
+}, {
+  "date" : "2012/Q4",
+  "keyValues" : {
+    "II stopień pokrycia" : "72.02",
+    "I stopień pokrycia" : "72.02",
+    "Udział kapitału pracującego w aktywach" : "0.95",
+    "Pokrycie zobowiązań należnościami" : "5.11",
+    "Płynność szybka" : "18.90",
+    "Płynność podwyższona" : "14.56",
+    "Płynność bieżąca" : "30.42",
+    "Płynność gotówkowa" : "14.56"
+  }
+}, {
+  "date" : "2013/Q1",
+  "keyValues" : {
+    "II stopień pokrycia" : "85.01",
+    "I stopień pokrycia" : "85.01",
+    "Udział kapitału pracującego w aktywach" : "0.95",
+    "Pokrycie zobowiązań należnościami" : "1.51",
+    "Płynność szybka" : "16.30",
+    "Płynność podwyższona" : "15.46",
+    "Płynność bieżąca" : "28.08",
+    "Płynność gotówkowa" : "15.46"
+  }
+}, {
+  "date" : "2013/Q2",
+  "keyValues" : {
+    "II stopień pokrycia" : "12.90",
+    "I stopień pokrycia" : "12.90",
+    "Udział kapitału pracującego w aktywach" : "0.90",
+    "Pokrycie zobowiązań należnościami" : "2.33",
+    "Płynność szybka" : "17.40",
+    "Płynność podwyższona" : "15.83",
+    "Płynność bieżąca" : "29.77",
+    "Płynność gotówkowa" : "15.83"
+  }
+}, {
+  "date" : "2013/Q3",
+  "keyValues" : {
+    "II stopień pokrycia" : "13.53",
+    "I stopień pokrycia" : "13.53",
+    "Udział kapitału pracującego w aktywach" : "0.89",
+    "Pokrycie zobowiązań należnościami" : "1.40",
+    "Płynność szybka" : "13.58",
+    "Płynność podwyższona" : "12.71",
+    "Płynność bieżąca" : "24.33",
+    "Płynność gotówkowa" : "12.71"
+  }
+}, {
+  "date" : "2013/Q4",
+  "keyValues" : {
+    "II stopień pokrycia" : "13.43",
+    "I stopień pokrycia" : "13.43",
+    "Udział kapitału pracującego w aktywach" : "0.90",
+    "Pokrycie zobowiązań należnościami" : "3.23",
+    "Płynność szybka" : "14.70",
+    "Płynność podwyższona" : "13.17",
+    "Płynność bieżąca" : "28.60",
+    "Płynność gotówkowa" : "13.17"
+  }
+}, {
+  "date" : "2014/Q1",
+  "keyValues" : {
+    "II stopień pokrycia" : "13.82",
+    "I stopień pokrycia" : "13.82",
+    "Udział kapitału pracującego w aktywach" : "0.90",
+    "Pokrycie zobowiązań należnościami" : "1.49",
+    "Płynność szybka" : "12.74",
+    "Płynność podwyższona" : "12.75",
+    "Płynność bieżąca" : "28.79",
+    "Płynność gotówkowa" : "12.75"
+  }
+}, {
+  "date" : "2014/Q2",
+  "keyValues" : {
+    "II stopień pokrycia" : "8.40",
+    "I stopień pokrycia" : "8.40",
+    "Udział kapitału pracującego w aktywach" : "0.85",
+    "Pokrycie zobowiązań należnościami" : "1.46",
+    "Płynność szybka" : "5.84",
+    "Płynność podwyższona" : "5.59",
+    "Płynność bieżąca" : "18.92",
+    "Płynność gotówkowa" : "5.59"
+  }
+}, {
+  "date" : "2014/Q3",
+  "keyValues" : {
+    "II stopień pokrycia" : "7.03",
+    "I stopień pokrycia" : "7.03",
+    "Udział kapitału pracującego w aktywach" : "0.83",
+    "Pokrycie zobowiązań należnościami" : "2.19",
+    "Płynność szybka" : "3.35",
+    "Płynność podwyższona" : "2.87",
+    "Płynność bieżąca" : "18.64",
+    "Płynność gotówkowa" : "2.87"
+  }
+}, {
+  "date" : "2014/Q4",
+  "keyValues" : {
+    "II stopień pokrycia" : "9.75",
+    "I stopień pokrycia" : "9.75",
+    "Udział kapitału pracującego w aktywach" : "0.82",
+    "Pokrycie zobowiązań należnościami" : "3.41",
+    "Płynność szybka" : "6.15",
+    "Płynność podwyższona" : "3.59",
+    "Płynność bieżąca" : "9.29",
+    "Płynność gotówkowa" : "3.59"
+  }
+}, {
+  "date" : "2015/Q1",
+  "keyValues" : {
+    "II stopień pokrycia" : "13.04",
+    "I stopień pokrycia" : "12.70",
+    "Udział kapitału pracującego w aktywach" : "0.74",
+    "Pokrycie zobowiązań należnościami" : "1.00",
+    "Płynność szybka" : "3.61",
+    "Płynność podwyższona" : "2.61",
+    "Płynność bieżąca" : "4.64",
+    "Płynność gotówkowa" : "2.61"
+  }
+}, {
+  "date" : "2015/Q2",
+  "keyValues" : {
+    "II stopień pokrycia" : "18.12",
+    "I stopień pokrycia" : "18.12",
+    "Udział kapitału pracującego w aktywach" : "0.92",
+    "Pokrycie zobowiązań należnościami" : "5.79",
+    "Płynność szybka" : "25.78",
+    "Płynność podwyższona" : "19.82",
+    "Płynność bieżąca" : "32.19",
+    "Płynność gotówkowa" : "19.82"
+  }
+}, {
+  "date" : "2015/Q3",
+  "keyValues" : {
+    "II stopień pokrycia" : "3.82",
+    "I stopień pokrycia" : "3.69",
+    "Udział kapitału pracującego w aktywach" : "0.72",
+    "Pokrycie zobowiązań należnościami" : "3.11",
+    "Płynność szybka" : "29.24",
+    "Płynność podwyższona" : "26.68",
+    "Płynność bieżąca" : "29.82",
+    "Płynność gotówkowa" : "26.68"
+  }
+}, {
+  "date" : "2015/Q4",
+  "keyValues" : {
+    "II stopień pokrycia" : "4.14",
+    "I stopień pokrycia" : "4.06",
+    "Udział kapitału pracującego w aktywach" : "0.68",
+    "Pokrycie zobowiązań należnościami" : "0.76",
+    "Płynność szybka" : "7.21",
+    "Płynność podwyższona" : "6.43",
+    "Płynność bieżąca" : "7.21",
+    "Płynność gotówkowa" : "6.43"
+  }
+}, {
+  "date" : "2016/Q1",
+  "keyValues" : {
+    "II stopień pokrycia" : "4.63",
+    "I stopień pokrycia" : "4.55",
+    "Udział kapitału pracującego w aktywach" : "0.72",
+    "Pokrycie zobowiązań należnościami" : "1.46",
+    "Płynność szybka" : "10.11",
+    "Płynność podwyższona" : "8.55",
+    "Płynność bieżąca" : "10.11",
+    "Płynność gotówkowa" : "8.55"
+  }
+}, {
+  "date" : "2016/Q2",
+  "keyValues" : {
+    "II stopień pokrycia" : "4.76",
+    "I stopień pokrycia" : "4.68",
+    "Udział kapitału pracującego w aktywach" : "0.75",
+    "Pokrycie zobowiązań należnościami" : "2.67",
+    "Płynność szybka" : "15.22",
+    "Płynność podwyższona" : "12.47",
+    "Płynność bieżąca" : "15.22",
+    "Płynność gotówkowa" : "12.47"
+  }
+}, {
+  "date" : "2016/Q3",
+  "keyValues" : {
+    "II stopień pokrycia" : "4.31",
+    "I stopień pokrycia" : "4.24",
+    "Udział kapitału pracującego w aktywach" : "0.73",
+    "Pokrycie zobowiązań należnościami" : "1.60",
+    "Płynność szybka" : "16.00",
+    "Płynność podwyższona" : "14.35",
+    "Płynność bieżąca" : "16.00",
+    "Płynność gotówkowa" : "14.35"
+  }
+}, {
+  "date" : "2016/Q4",
+  "keyValues" : {
+    "II stopień pokrycia" : "4.49",
+    "I stopień pokrycia" : "4.44",
+    "Udział kapitału pracującego w aktywach" : "0.72",
+    "Pokrycie zobowiązań należnościami" : "1.77",
+    "Płynność szybka" : "11.74",
+    "Płynność podwyższona" : "9.46",
+    "Płynność bieżąca" : "11.74",
+    "Płynność gotówkowa" : "9.46"
+  }
+}, {
+  "date" : "2017/Q1",
+  "keyValues" : {
+    "II stopień pokrycia" : "3.87",
+    "I stopień pokrycia" : "3.83",
+    "Udział kapitału pracującego w aktywach" : "0.72",
+    "Pokrycie zobowiązań należnościami" : "1.74",
+    "Płynność szybka" : "21.68",
+    "Płynność podwyższona" : "19.62",
+    "Płynność bieżąca" : "21.68",
+    "Płynność gotówkowa" : "19.62"
+  }
+}, {
+  "date" : "2017/Q2",
+  "keyValues" : {
+    "II stopień pokrycia" : "3.78",
+    "I stopień pokrycia" : "3.74",
+    "Udział kapitału pracującego w aktywach" : "0.71",
+    "Pokrycie zobowiązań należnościami" : "3.08",
+    "Płynność szybka" : "21.87",
+    "Płynność podwyższona" : "18.56",
+    "Płynność bieżąca" : "21.87",
+    "Płynność gotówkowa" : "17.26"
+  }
+}, {
+  "date" : "2017/Q3",
+  "keyValues" : {
+    "II stopień pokrycia" : "2.91",
+    "I stopień pokrycia" : "2.86",
+    "Udział kapitału pracującego w aktywach" : "0.64",
+    "Pokrycie zobowiązań należnościami" : "1.50",
+    "Płynność szybka" : "21.43",
+    "Płynność podwyższona" : "19.79",
+    "Płynność bieżąca" : "21.43",
+    "Płynność gotówkowa" : "19.79"
+  }
+}, {
+  "date" : "2017/Q4",
+  "keyValues" : {
+    "II stopień pokrycia" : "2.74",
+    "I stopień pokrycia" : "2.69",
+    "Udział kapitału pracującego w aktywach" : "0.61",
+    "Pokrycie zobowiązań należnościami" : "1.81",
+    "Płynność szybka" : "18.92",
+    "Płynność podwyższona" : "16.93",
+    "Płynność bieżąca" : "18.92",
+    "Płynność gotówkowa" : "16.93"
+  }
+}, {
+  "date" : "2018/Q1",
+  "keyValues" : {
+    "II stopień pokrycia" : "2.51",
+    "I stopień pokrycia" : "2.47",
+    "Udział kapitału pracującego w aktywach" : "0.59",
+    "Pokrycie zobowiązań należnościami" : "2.45",
+    "Płynność szybka" : "33.91",
+    "Płynność podwyższona" : "31.10",
+    "Płynność bieżąca" : "33.91",
+    "Płynność gotówkowa" : "31.10"
+  }
+}, {
+  "date" : "2018/Q2",
+  "keyValues" : {
+    "II stopień pokrycia" : "3.51",
+    "I stopień pokrycia" : "3.48",
+    "Udział kapitału pracującego w aktywach" : "0.64",
+    "Pokrycie zobowiązań należnościami" : "1.55",
+    "Płynność szybka" : "7.47",
+    "Płynność podwyższona" : "5.89",
+    "Płynność bieżąca" : "7.47",
+    "Płynność gotówkowa" : "3.94"
+  }
+}, {
+  "date" : "2018/Q3",
+  "keyValues" : {
+    "II stopień pokrycia" : "3.35",
+    "I stopień pokrycia" : "3.31",
+    "Udział kapitału pracującego w aktywach" : "0.64",
+    "Pokrycie zobowiązań należnościami" : "0.85",
+    "Płynność szybka" : "8.88",
+    "Płynność podwyższona" : "7.99",
+    "Płynność bieżąca" : "8.88",
+    "Płynność gotówkowa" : "4.18"
+  }
+} ]

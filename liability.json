@@ -1,0 +1,497 @@
+[ {
+  "date" : "2009/Q4",
+  "keyValues" : {
+    "Zadłużenie netto / EBITDA" : null,
+    "Zadłużenie długoterminowe" : null,
+    "Zadłużenie finansowe netto / EBITDA" : null,
+    "Zadłużenie finansowe netto" : null,
+    "Zadłużenie netto" : null,
+    "Wskaźnik ogólnej sytuacji finansowej" : null,
+    "Trwałość struktury finansowania" : null,
+    "Zadłużenie ogólne" : null,
+    "Zadłużenie kapitału własnego" : null,
+    "Pokrycie aktywów trwałych kapitałami stałymi" : null,
+    "Zastosowanie kapitału obcego" : null,
+    "Zadłużenie środków trwałych" : null
+  }
+}, {
+  "date" : "2010/Q4",
+  "keyValues" : {
+    "Zadłużenie netto / EBITDA" : "3.00",
+    "Zadłużenie długoterminowe" : null,
+    "Zadłużenie finansowe netto / EBITDA" : "3.28",
+    "Zadłużenie finansowe netto" : null,
+    "Zadłużenie netto" : null,
+    "Wskaźnik ogólnej sytuacji finansowej" : "1.10",
+    "Trwałość struktury finansowania" : null,
+    "Zadłużenie ogólne" : "0.05",
+    "Zadłużenie kapitału własnego" : "0.05",
+    "Pokrycie aktywów trwałych kapitałami stałymi" : null,
+    "Zastosowanie kapitału obcego" : "0.05",
+    "Zadłużenie środków trwałych" : null
+  }
+}, {
+  "date" : "2011/Q3",
+  "keyValues" : {
+    "Zadłużenie netto / EBITDA" : "-0.85",
+    "Zadłużenie długoterminowe" : null,
+    "Zadłużenie finansowe netto / EBITDA" : "-0.96",
+    "Zadłużenie finansowe netto" : null,
+    "Zadłużenie netto" : null,
+    "Wskaźnik ogólnej sytuacji finansowej" : "0.94",
+    "Trwałość struktury finansowania" : null,
+    "Zadłużenie ogólne" : "0.04",
+    "Zadłużenie kapitału własnego" : "0.04",
+    "Pokrycie aktywów trwałych kapitałami stałymi" : null,
+    "Zastosowanie kapitału obcego" : "0.04",
+    "Zadłużenie środków trwałych" : null
+  }
+}, {
+  "date" : "2011/Q4",
+  "keyValues" : {
+    "Zadłużenie netto / EBITDA" : "-0.66",
+    "Zadłużenie długoterminowe" : null,
+    "Zadłużenie finansowe netto / EBITDA" : "-0.86",
+    "Zadłużenie finansowe netto" : null,
+    "Zadłużenie netto" : null,
+    "Wskaźnik ogólnej sytuacji finansowej" : "3.11",
+    "Trwałość struktury finansowania" : null,
+    "Zadłużenie ogólne" : "0.10",
+    "Zadłużenie kapitału własnego" : "0.12",
+    "Pokrycie aktywów trwałych kapitałami stałymi" : null,
+    "Zastosowanie kapitału obcego" : "0.11",
+    "Zadłużenie środków trwałych" : null
+  }
+}, {
+  "date" : "2012/Q1",
+  "keyValues" : {
+    "Zadłużenie netto / EBITDA" : "-0.71",
+    "Zadłużenie długoterminowe" : null,
+    "Zadłużenie finansowe netto / EBITDA" : "-0.75",
+    "Zadłużenie finansowe netto" : null,
+    "Zadłużenie netto" : null,
+    "Wskaźnik ogólnej sytuacji finansowej" : "1.42",
+    "Trwałość struktury finansowania" : null,
+    "Zadłużenie ogólne" : "0.02",
+    "Zadłużenie kapitału własnego" : "0.02",
+    "Pokrycie aktywów trwałych kapitałami stałymi" : null,
+    "Zastosowanie kapitału obcego" : "0.02",
+    "Zadłużenie środków trwałych" : null
+  }
+}, {
+  "date" : "2012/Q2",
+  "keyValues" : {
+    "Zadłużenie netto / EBITDA" : "-0.95",
+    "Zadłużenie długoterminowe" : null,
+    "Zadłużenie finansowe netto / EBITDA" : "-1.00",
+    "Zadłużenie finansowe netto" : null,
+    "Zadłużenie netto" : null,
+    "Wskaźnik ogólnej sytuacji finansowej" : "1.44",
+    "Trwałość struktury finansowania" : null,
+    "Zadłużenie ogólne" : "0.02",
+    "Zadłużenie kapitału własnego" : "0.02",
+    "Pokrycie aktywów trwałych kapitałami stałymi" : null,
+    "Zastosowanie kapitału obcego" : "0.02",
+    "Zadłużenie środków trwałych" : null
+  }
+}, {
+  "date" : "2012/Q3",
+  "keyValues" : {
+    "Zadłużenie netto / EBITDA" : "-2.90",
+    "Zadłużenie długoterminowe" : null,
+    "Zadłużenie finansowe netto / EBITDA" : "-2.97",
+    "Zadłużenie finansowe netto" : null,
+    "Zadłużenie netto" : null,
+    "Wskaźnik ogólnej sytuacji finansowej" : "1.06",
+    "Trwałość struktury finansowania" : null,
+    "Zadłużenie ogólne" : "0.01",
+    "Zadłużenie kapitału własnego" : "0.02",
+    "Pokrycie aktywów trwałych kapitałami stałymi" : null,
+    "Zastosowanie kapitału obcego" : "0.01",
+    "Zadłużenie środków trwałych" : null
+  }
+}, {
+  "date" : "2012/Q4",
+  "keyValues" : {
+    "Zadłużenie netto / EBITDA" : "-1.69",
+    "Zadłużenie długoterminowe" : null,
+    "Zadłużenie finansowe netto / EBITDA" : "-1.81",
+    "Zadłużenie finansowe netto" : null,
+    "Zadłużenie netto" : null,
+    "Wskaźnik ogólnej sytuacji finansowej" : "2.37",
+    "Trwałość struktury finansowania" : null,
+    "Zadłużenie ogólne" : "0.03",
+    "Zadłużenie kapitału własnego" : "0.03",
+    "Pokrycie aktywów trwałych kapitałami stałymi" : null,
+    "Zastosowanie kapitału obcego" : "0.03",
+    "Zadłużenie środków trwałych" : null
+  }
+}, {
+  "date" : "2013/Q1",
+  "keyValues" : {
+    "Zadłużenie netto / EBITDA" : "-2.48",
+    "Zadłużenie długoterminowe" : null,
+    "Zadłużenie finansowe netto / EBITDA" : "-2.65",
+    "Zadłużenie finansowe netto" : null,
+    "Zadłużenie netto" : null,
+    "Wskaźnik ogólnej sytuacji finansowej" : "3.03",
+    "Trwałość struktury finansowania" : null,
+    "Zadłużenie ogólne" : "0.04",
+    "Zadłużenie kapitału własnego" : "0.04",
+    "Pokrycie aktywów trwałych kapitałami stałymi" : null,
+    "Zastosowanie kapitału obcego" : "0.04",
+    "Zadłużenie środków trwałych" : null
+  }
+}, {
+  "date" : "2013/Q2",
+  "keyValues" : {
+    "Zadłużenie netto / EBITDA" : "-1.85",
+    "Zadłużenie długoterminowe" : null,
+    "Zadłużenie finansowe netto / EBITDA" : "-1.97",
+    "Zadłużenie finansowe netto" : null,
+    "Zadłużenie netto" : null,
+    "Wskaźnik ogólnej sytuacji finansowej" : "0.43",
+    "Trwałość struktury finansowania" : null,
+    "Zadłużenie ogólne" : "0.03",
+    "Zadłużenie kapitału własnego" : "0.03",
+    "Pokrycie aktywów trwałych kapitałami stałymi" : null,
+    "Zastosowanie kapitału obcego" : "0.03",
+    "Zadłużenie środków trwałych" : null
+  }
+}, {
+  "date" : "2013/Q3",
+  "keyValues" : {
+    "Zadłużenie netto / EBITDA" : "-2.51",
+    "Zadłużenie długoterminowe" : null,
+    "Zadłużenie finansowe netto / EBITDA" : "-2.73",
+    "Zadłużenie finansowe netto" : null,
+    "Zadłużenie netto" : null,
+    "Wskaźnik ogólnej sytuacji finansowej" : "0.56",
+    "Trwałość struktury finansowania" : null,
+    "Zadłużenie ogólne" : "0.04",
+    "Zadłużenie kapitału własnego" : "0.04",
+    "Pokrycie aktywów trwałych kapitałami stałymi" : null,
+    "Zastosowanie kapitału obcego" : "0.04",
+    "Zadłużenie środków trwałych" : null
+  }
+}, {
+  "date" : "2013/Q4",
+  "keyValues" : {
+    "Zadłużenie netto / EBITDA" : "-2.17",
+    "Zadłużenie długoterminowe" : null,
+    "Zadłużenie finansowe netto / EBITDA" : "-2.35",
+    "Zadłużenie finansowe netto" : null,
+    "Zadłużenie netto" : null,
+    "Wskaźnik ogólnej sytuacji finansowej" : "0.47",
+    "Trwałość struktury finansowania" : null,
+    "Zadłużenie ogólne" : "0.03",
+    "Zadłużenie kapitału własnego" : "0.04",
+    "Pokrycie aktywów trwałych kapitałami stałymi" : null,
+    "Zastosowanie kapitału obcego" : "0.04",
+    "Zadłużenie środków trwałych" : null
+  }
+}, {
+  "date" : "2014/Q1",
+  "keyValues" : {
+    "Zadłużenie netto / EBITDA" : "-2.93",
+    "Zadłużenie długoterminowe" : null,
+    "Zadłużenie finansowe netto / EBITDA" : "-3.18",
+    "Zadłużenie finansowe netto" : null,
+    "Zadłużenie netto" : null,
+    "Wskaźnik ogólnej sytuacji finansowej" : "0.48",
+    "Trwałość struktury finansowania" : null,
+    "Zadłużenie ogólne" : "0.03",
+    "Zadłużenie kapitału własnego" : "0.04",
+    "Pokrycie aktywów trwałych kapitałami stałymi" : null,
+    "Zastosowanie kapitału obcego" : "0.03",
+    "Zadłużenie środków trwałych" : null
+  }
+}, {
+  "date" : "2014/Q2",
+  "keyValues" : {
+    "Zadłużenie netto / EBITDA" : "6.12",
+    "Zadłużenie długoterminowe" : null,
+    "Zadłużenie finansowe netto / EBITDA" : "7.46",
+    "Zadłużenie finansowe netto" : null,
+    "Zadłużenie netto" : null,
+    "Wskaźnik ogólnej sytuacji finansowej" : "0.44",
+    "Trwałość struktury finansowania" : null,
+    "Zadłużenie ogólne" : "0.05",
+    "Zadłużenie kapitału własnego" : "0.05",
+    "Pokrycie aktywów trwałych kapitałami stałymi" : null,
+    "Zastosowanie kapitału obcego" : "0.05",
+    "Zadłużenie środków trwałych" : null
+  }
+}, {
+  "date" : "2014/Q3",
+  "keyValues" : {
+    "Zadłużenie netto / EBITDA" : "-1.81",
+    "Zadłużenie długoterminowe" : null,
+    "Zadłużenie finansowe netto / EBITDA" : "-2.78",
+    "Zadłużenie finansowe netto" : null,
+    "Zadłużenie netto" : null,
+    "Wskaźnik ogólnej sytuacji finansowej" : "0.38",
+    "Trwałość struktury finansowania" : null,
+    "Zadłużenie ogólne" : "0.05",
+    "Zadłużenie kapitału własnego" : "0.05",
+    "Pokrycie aktywów trwałych kapitałami stałymi" : null,
+    "Zastosowanie kapitału obcego" : "0.05",
+    "Zadłużenie środków trwałych" : null
+  }
+}, {
+  "date" : "2014/Q4",
+  "keyValues" : {
+    "Zadłużenie netto / EBITDA" : "-0.48",
+    "Zadłużenie długoterminowe" : null,
+    "Zadłużenie finansowe netto / EBITDA" : "-0.66",
+    "Zadłużenie finansowe netto" : null,
+    "Zadłużenie netto" : null,
+    "Wskaźnik ogólnej sytuacji finansowej" : "1.05",
+    "Trwałość struktury finansowania" : null,
+    "Zadłużenie ogólne" : "0.10",
+    "Zadłużenie kapitału własnego" : "0.13",
+    "Pokrycie aktywów trwałych kapitałami stałymi" : null,
+    "Zastosowanie kapitału obcego" : "0.11",
+    "Zadłużenie środków trwałych" : null
+  }
+}, {
+  "date" : "2015/Q1",
+  "keyValues" : {
+    "Zadłużenie netto / EBITDA" : "-0.50",
+    "Zadłużenie długoterminowe" : "0.03",
+    "Zadłużenie finansowe netto / EBITDA" : "-0.87",
+    "Zadłużenie finansowe netto" : null,
+    "Zadłużenie netto" : null,
+    "Wskaźnik ogólnej sytuacji finansowej" : "3.02",
+    "Trwałość struktury finansowania" : "0.80",
+    "Zadłużenie ogólne" : "0.22",
+    "Zadłużenie kapitału własnego" : "0.29",
+    "Pokrycie aktywów trwałych kapitałami stałymi" : "13.04",
+    "Zastosowanie kapitału obcego" : "0.24",
+    "Zadłużenie środków trwałych" : "0.17"
+  }
+}, {
+  "date" : "2015/Q2",
+  "keyValues" : {
+    "Zadłużenie netto / EBITDA" : "-0.69",
+    "Zadłużenie długoterminowe" : null,
+    "Zadłużenie finansowe netto / EBITDA" : "-0.73",
+    "Zadłużenie finansowe netto" : null,
+    "Zadłużenie netto" : null,
+    "Wskaźnik ogólnej sytuacji finansowej" : "0.56",
+    "Trwałość struktury finansowania" : null,
+    "Zadłużenie ogólne" : "0.03",
+    "Zadłużenie kapitału własnego" : "0.03",
+    "Pokrycie aktywów trwałych kapitałami stałymi" : null,
+    "Zastosowanie kapitału obcego" : "0.03",
+    "Zadłużenie środków trwałych" : null
+  }
+}, {
+  "date" : "2015/Q3",
+  "keyValues" : {
+    "Zadłużenie netto / EBITDA" : "-0.68",
+    "Zadłużenie długoterminowe" : "0.03",
+    "Zadłużenie finansowe netto / EBITDA" : "-0.75",
+    "Zadłużenie finansowe netto" : null,
+    "Zadłużenie netto" : null,
+    "Wskaźnik ogólnej sytuacji finansowej" : "0.28",
+    "Trwałość struktury finansowania" : "0.96",
+    "Zadłużenie ogólne" : "0.06",
+    "Zadłużenie kapitału własnego" : "0.06",
+    "Pokrycie aktywów trwałych kapitałami stałymi" : "3.87",
+    "Zastosowanie kapitału obcego" : "0.08",
+    "Zadłużenie środków trwałych" : "0.12"
+  }
+}, {
+  "date" : "2015/Q4",
+  "keyValues" : {
+    "Zadłużenie netto / EBITDA" : "-1.16",
+    "Zadłużenie długoterminowe" : "0.02",
+    "Zadłużenie finansowe netto / EBITDA" : "-1.42",
+    "Zadłużenie finansowe netto" : null,
+    "Zadłużenie netto" : null,
+    "Wskaźnik ogólnej sytuacji finansowej" : "0.65",
+    "Trwałość struktury finansowania" : "0.89",
+    "Zadłużenie ogólne" : "0.13",
+    "Zadłużenie kapitału własnego" : "0.14",
+    "Pokrycie aktywów trwałych kapitałami stałymi" : "4.14",
+    "Zastosowanie kapitału obcego" : "0.16",
+    "Zadłużenie środków trwałych" : "0.77"
+  }
+}, {
+  "date" : "2016/Q1",
+  "keyValues" : {
+    "Zadłużenie netto / EBITDA" : "-1.22",
+    "Zadłużenie długoterminowe" : "0.02",
+    "Zadłużenie finansowe netto / EBITDA" : "-1.42",
+    "Zadłużenie finansowe netto" : null,
+    "Zadłużenie netto" : null,
+    "Wskaźnik ogólnej sytuacji finansowej" : "0.54",
+    "Trwałość struktury finansowania" : "0.92",
+    "Zadłużenie ogólne" : "0.09",
+    "Zadłużenie kapitału własnego" : "0.10",
+    "Pokrycie aktywów trwałych kapitałami stałymi" : "4.63",
+    "Zastosowanie kapitału obcego" : "0.12",
+    "Zadłużenie środków trwałych" : "1.07"
+  }
+}, {
+  "date" : "2016/Q2",
+  "keyValues" : {
+    "Zadłużenie netto / EBITDA" : "-1.42",
+    "Zadłużenie długoterminowe" : "0.02",
+    "Zadłużenie finansowe netto / EBITDA" : "-1.58",
+    "Zadłużenie finansowe netto" : null,
+    "Zadłużenie netto" : null,
+    "Wskaźnik ogólnej sytuacji finansowej" : "0.40",
+    "Trwałość struktury finansowania" : "0.95",
+    "Zadłużenie ogólne" : "0.07",
+    "Zadłużenie kapitału własnego" : "0.07",
+    "Pokrycie aktywów trwałych kapitałami stałymi" : "4.76",
+    "Zastosowanie kapitału obcego" : "0.09",
+    "Zadłużenie środków trwałych" : "1.04"
+  }
+}, {
+  "date" : "2016/Q3",
+  "keyValues" : {
+    "Zadłużenie netto / EBITDA" : "-1.69",
+    "Zadłużenie długoterminowe" : "0.02",
+    "Zadłużenie finansowe netto / EBITDA" : "-1.85",
+    "Zadłużenie finansowe netto" : null,
+    "Zadłużenie netto" : null,
+    "Wskaźnik ogólnej sytuacji finansowej" : "0.35",
+    "Trwałość struktury finansowania" : "0.95",
+    "Zadłużenie ogólne" : "0.06",
+    "Zadłużenie kapitału własnego" : "0.07",
+    "Pokrycie aktywów trwałych kapitałami stałymi" : "4.31",
+    "Zastosowanie kapitału obcego" : "0.08",
+    "Zadłużenie środków trwałych" : "1.21"
+  }
+}, {
+  "date" : "2016/Q4",
+  "keyValues" : {
+    "Zadłużenie netto / EBITDA" : "-1.53",
+    "Zadłużenie długoterminowe" : "0.01",
+    "Zadłużenie finansowe netto / EBITDA" : "-1.74",
+    "Zadłużenie finansowe netto" : null,
+    "Zadłużenie netto" : null,
+    "Wskaźnik ogólnej sytuacji finansowej" : "0.43",
+    "Trwałość struktury finansowania" : "0.93",
+    "Zadłużenie ogólne" : "0.08",
+    "Zadłużenie kapitału własnego" : "0.08",
+    "Pokrycie aktywów trwałych kapitałami stałymi" : "4.49",
+    "Zastosowanie kapitału obcego" : "0.10",
+    "Zadłużenie środków trwałych" : "1.76"
+  }
+}, {
+  "date" : "2017/Q1",
+  "keyValues" : {
+    "Zadłużenie netto / EBITDA" : "-2.50",
+    "Zadłużenie długoterminowe" : "0.01",
+    "Zadłużenie finansowe netto / EBITDA" : "-2.68",
+    "Zadłużenie finansowe netto" : null,
+    "Zadłużenie netto" : null,
+    "Wskaźnik ogólnej sytuacji finansowej" : "0.23",
+    "Trwałość struktury finansowania" : "0.97",
+    "Zadłużenie ogólne" : "0.04",
+    "Zadłużenie kapitału własnego" : "0.05",
+    "Pokrycie aktywów trwałych kapitałami stałymi" : "3.87",
+    "Zastosowanie kapitału obcego" : "0.06",
+    "Zadłużenie środków trwałych" : "1.85"
+  }
+}, {
+  "date" : "2017/Q2",
+  "keyValues" : {
+    "Zadłużenie netto / EBITDA" : "-2.26",
+    "Zadłużenie długoterminowe" : "0.01",
+    "Zadłużenie finansowe netto / EBITDA" : "-2.25",
+    "Zadłużenie finansowe netto" : null,
+    "Zadłużenie netto" : null,
+    "Wskaźnik ogólnej sytuacji finansowej" : "0.22",
+    "Trwałość struktury finansowania" : "0.97",
+    "Zadłużenie ogólne" : "0.04",
+    "Zadłużenie kapitału własnego" : "0.05",
+    "Pokrycie aktywów trwałych kapitałami stałymi" : "3.78",
+    "Zastosowanie kapitału obcego" : "0.06",
+    "Zadłużenie środków trwałych" : "1.80"
+  }
+}, {
+  "date" : "2017/Q3",
+  "keyValues" : {
+    "Zadłużenie netto / EBITDA" : "-2.86",
+    "Zadłużenie długoterminowe" : "0.02",
+    "Zadłużenie finansowe netto / EBITDA" : "-3.11",
+    "Zadłużenie finansowe netto" : null,
+    "Zadłużenie netto" : null,
+    "Wskaźnik ogólnej sytuacji finansowej" : "0.22",
+    "Trwałość struktury finansowania" : "0.97",
+    "Zadłużenie ogólne" : "0.05",
+    "Zadłużenie kapitału własnego" : "0.05",
+    "Pokrycie aktywów trwałych kapitałami stałymi" : "2.91",
+    "Zastosowanie kapitału obcego" : "0.08",
+    "Zadłużenie środków trwałych" : "0.95"
+  }
+}, {
+  "date" : "2017/Q4",
+  "keyValues" : {
+    "Zadłużenie netto / EBITDA" : "-2.79",
+    "Zadłużenie długoterminowe" : "0.02",
+    "Zadłużenie finansowe netto / EBITDA" : "-3.05",
+    "Zadłużenie finansowe netto" : null,
+    "Zadłużenie netto" : null,
+    "Wskaźnik ogólnej sytuacji finansowej" : "0.21",
+    "Trwałość struktury finansowania" : "0.97",
+    "Zadłużenie ogólne" : "0.05",
+    "Zadłużenie kapitału własnego" : "0.05",
+    "Pokrycie aktywów trwałych kapitałami stałymi" : "2.74",
+    "Zastosowanie kapitału obcego" : "0.08",
+    "Zadłużenie środków trwałych" : "1.07"
+  }
+}, {
+  "date" : "2018/Q1",
+  "keyValues" : {
+    "Zadłużenie netto / EBITDA" : "-2.93",
+    "Zadłużenie długoterminowe" : "0.02",
+    "Zadłużenie finansowe netto / EBITDA" : "-3.12",
+    "Zadłużenie finansowe netto" : null,
+    "Zadłużenie netto" : null,
+    "Wskaźnik ogólnej sytuacji finansowej" : "0.14",
+    "Trwałość struktury finansowania" : "0.98",
+    "Zadłużenie ogólne" : "0.03",
+    "Zadłużenie kapitału własnego" : "0.04",
+    "Pokrycie aktywów trwałych kapitałami stałymi" : "2.51",
+    "Zastosowanie kapitału obcego" : "0.06",
+    "Zadłużenie środków trwałych" : "1.00"
+  }
+}, {
+  "date" : "2018/Q2",
+  "keyValues" : {
+    "Zadłużenie netto / EBITDA" : "-1.06",
+    "Zadłużenie długoterminowe" : "0.01",
+    "Zadłużenie finansowe netto / EBITDA" : "-0.87",
+    "Zadłużenie finansowe netto" : null,
+    "Zadłużenie netto" : null,
+    "Wskaźnik ogólnej sytuacji finansowej" : "0.51",
+    "Trwałość struktury finansowania" : "0.90",
+    "Zadłużenie ogólne" : "0.11",
+    "Zadłużenie kapitału własnego" : "0.12",
+    "Pokrycie aktywów trwałych kapitałami stałymi" : "3.51",
+    "Zastosowanie kapitału obcego" : "0.15",
+    "Zadłużenie środków trwałych" : "0.94"
+  }
+}, {
+  "date" : "2018/Q3",
+  "keyValues" : {
+    "Zadłużenie netto / EBITDA" : "-1.11",
+    "Zadłużenie długoterminowe" : "0.01",
+    "Zadłużenie finansowe netto / EBITDA" : "-0.68",
+    "Zadłużenie finansowe netto" : null,
+    "Zadłużenie netto" : null,
+    "Wskaźnik ogólnej sytuacji finansowej" : "0.41",
+    "Trwałość struktury finansowania" : "0.92",
+    "Zadłużenie ogólne" : "0.09",
+    "Zadłużenie kapitału własnego" : "0.10",
+    "Pokrycie aktywów trwałych kapitałami stałymi" : "3.35",
+    "Zastosowanie kapitału obcego" : "0.12",
+    "Zadłużenie środków trwałych" : "0.90"
+  }
+} ]
